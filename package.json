@@ -27,7 +27,7 @@
         "shiki": "^1.23.1"
     },
     "dependencies": {
-        "@11ty/eleventy-img": "^5.0.0",
+        "@11ty/eleventy-img": "^4.0.2",
         "@sindresorhus/slugify": "^1.1.0",
         "axios": "^1.7.4",
         "dotenv": "^16.0.3",
