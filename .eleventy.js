@@ -7,6 +7,7 @@ const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier-terser");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const markdownItShiki = require('markdown-it-shiki')
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 const {
@@ -120,7 +121,11 @@ module.exports = function (eleventyConfig) {
         skipHtmlTags: { "[-]": ["pre"] },
       },
     })
-    .use(require("markdown-it-attrs"))
+    .use(markdownItShiki, {
+      theme: 'catppuccin-mocha', // 또는 원하는 테마
+      langs: ['javascript', 'typescript', 'shellscript', 'latex', 'templ', 'typespec', 'typst','yaml', 'postcss','regexp','sql','svelt','terraform', 'haskell', "bash", 'nix', 'elixir', 'erlang', 'gleam', 'rust', 'markdown', 'css', 'sass', 'html', 'toml', 'docker', 'dotenv', 'dart', 'ini', 'json', 'jsonc', 'make', 'mdx', 'mermaid', 'ocaml', 'jsx', 'tsx', 'xml'] // 지원하고 싶은 언어들
+    })
+    // .use(require("markdown-it-attrs"))
     .use(require("markdown-it-task-checkbox"), {
       disabled: true,
       divWrap: false,
