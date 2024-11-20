@@ -120,7 +120,7 @@ module.exports = function (eleventyConfig) {
         skipHtmlTags: { "[-]": ["pre"] },
       },
     })
-    // .use(require("markdown-it-attrs"))
+    .use(require("markdown-it-attrs"))
     .use(require("markdown-it-task-checkbox"), {
       disabled: true,
       divWrap: false,
