@@ -5,9 +5,9 @@
 
 
 ## 최근 업데이트순 (modified date)
-- [[Dev/nix/packages\|packages]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.20 PM 5:28 </span>
-- [[Dev/nix/concept learning\|concept learning]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.20 PM 5:14 </span>
-- [[Dev/nix/index\|index]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.19 PM 4:52 </span>
+- [[Dev/nix/index\|index]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.20 PM 5:30 </span>
+- [[Dev/nix/concept learning\|concept learning]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.20 PM 5:30 </span>
+- [[Dev/nix/packages\|packages]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.20 PM 5:30 </span>
 - [[Editor/zed config\|zed config]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Editor `-2024.11.19 PM 3:07 </span>
 - [[Dev/nix/language\|language]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.16 PM 5:55 </span>
 - [[Dev/elixir/language/erlang 데이터 구조\|erlang 데이터 구조]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/language `-2024.11.16 PM 2:17 </span>
