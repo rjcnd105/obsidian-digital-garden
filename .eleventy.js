@@ -7,7 +7,7 @@ const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier-terser");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
-const markdownItShiki = require('markdown-it-shiki')
+const markdownItShiki = require('@shikijs/markdown-it')
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 const {
