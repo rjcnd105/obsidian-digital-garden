@@ -245,7 +245,7 @@ module.exports = function (eleventyConfig) {
       const defaultLinkRule =
         md.renderer.rules.link_open ||
         function (tokens, idx, options, env, self) {
-          return self.renderToken(tokens, idx, {options}, env, self);
+          return self.renderToken(tokens, idx, options, env, self);
         };
       md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
         const hrefIndex = tokens[idx].attrIndex("href");
@@ -291,7 +291,7 @@ module.exports = function (eleventyConfig) {
         }
         const [fileLink, linkTitle] = p1.split("|");
 
-        return getAnchorLink(fileLink, linkTitle);
+        return getAnchorLink(encodeURI(fileLink), linkTitle);
       })
     );
   });
