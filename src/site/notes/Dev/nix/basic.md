@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"createdAt":"2024.10.02 수 오후 18:58","modifiedAt":"2024.11.20 수 오후 17:30","tags":["nix","nix_flake"],"permalink":"/Dev/nix/basic/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2024.10.02 수 오후 18:58","modifiedAt":"2024.11.21 목 오후 23:32","tags":["nix","nix_flake"],"permalink":"/Dev/nix/basic/","dgPassFrontmatter":true}
 ---
 
 > 언제까지 프로젝트를 시작할때 마다 매번 같은 환경 세팅을 하고, 누군가는 되는데 os가 다르다고 설치 과정에서 문제가 생기고, 각자 다른 시스템 환경 때문에 고생을 할 것인가. 
@@ -25,7 +25,7 @@ mkdir -p ~/.config/nix && touch ~/.config/nix/nix.conf && zed ~/.config/nix/nix.
 ```
 
 nix.conf 내부 내용을 아래처럼 변경해서 저장
-```
+```dotenv
 experimental-features = nix-command flakes
 ```
 
@@ -48,7 +48,7 @@ zsh: command not found: cowsay
 
 nix-shell을 사용하여 특정 패키지를 사용한다고 명시하고 쉘에 진입할 수 있다. 
 그리고 control+D로 쉘에서 나갈 수 있다.
-```
+```shell
 nix-shell -p cowsay lolcat
 
 [nix-shell:~]$ cowsay Hello, Nix! | lolcat
@@ -65,7 +65,7 @@ nix-shell -p cowsay lolcat
 나간 이후에는 nix shell로 진입하기 전처럼 해당 패키지를 사용할 수 없다.
 
 어떤 프로그램이든 즉시 실행시킬 수 있다.
-```
+```shell
 nix-shell -p cowsay --run "cowsay Nix"
  _____
 < Nix >
@@ -83,7 +83,7 @@ https://search.nixos.org/packages
 nix-shell의 -p는 packages의 약자이다.
 
 which로 어디에 위치하는지 봐보자.
-```
+```shell
 [nix-shell:~]$ which cowsay
 /nix/store/isxbnwiiw7n661gmw2q1fx92z3aw079a-cowsay-3.8.3/bin/cowsay
 
@@ -92,7 +92,7 @@ which로 어디에 위치하는지 봐보자.
 ```
 
 nix-shell안에서 추가하고 싶으면 앞서 사용한대로 또 사용하면 된다.
-```
+```shell
 nix-shell -p cowsay lolcat
 
 [nix-shell:~]$ nix-shell -p git
@@ -107,7 +107,7 @@ aaa
 
 재현성(reproducibility)이란 언제 어디서나 동일한 결과를 얻기를 원한다는 것이다.
 패키지 버전을 지정해야 한다.
-```
+```shell
 nix-shell -p git --run "git --version" --pure -I nixpkgs=https://github.com/NixOS/nixpkgs/tarball/2a601aafdc5605a5133a2ca506a34a3a73377247
 ```
  --pure: 기존 시스템의 환경 변수로부터 격리 실행
@@ -115,7 +115,7 @@ nix-shell -p git --run "git --version" --pure -I nixpkgs=https://github.com/NixO
 
 
 nixpkgs-releases.sh
-```
+```shell
 #!/usr/bin/env nix-shell
 #! nix-shell -i bash --pure
 #! nix-shell -p bash cacert curl jq python3Packages.xmljson
@@ -150,7 +150,7 @@ nix - nix flake는 docker - docker compose와의 관계랑 비슷한 면이 있�
 ---
 ### Determinate Systems start guide
 
-```
+```shell
 echo "Hello Nix" | nix run "https://flakehub.com/f/NixOS/nixpkgs/*#ponysay"
 ```
 
