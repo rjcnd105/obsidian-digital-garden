@@ -1,9 +1,11 @@
-require("dotenv").config();
-const settings = require("src/helpers/constants.js");
+import {config} from "dotenv"
 
+import * as settings from "/src/helpers/constants.js"
+
+config()
 const allSettings = settings.ALL_NOTE_SETTINGS;
 
-module.exports = {
+export default {
   eleventyComputed: {
     layout: (data) => {
       if (data.tags.indexOf("gardenEntry") != -1) {
@@ -24,10 +26,10 @@ module.exports = {
         let globalSetting = process.env[setting];
 
         let settingValue =
-          noteSetting || (globalSetting === "true" && noteSetting !== false);
+            noteSetting || (globalSetting === "true" && noteSetting !== false);
         noteSettings[setting] = settingValue;
       });
       return noteSettings;
     },
   },
-};
+}

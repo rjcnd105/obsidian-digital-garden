@@ -49,5 +49,3 @@ export function namedHeadingsFilter(md, options) {
     md.core.ruler.push('named_headings', namedHeadings.bind(null, md));
 }
 
-exports.headerToId = headerToId;
-

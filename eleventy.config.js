@@ -4,18 +4,18 @@ import Image from "@11ty/eleventy-img";
 import {default as slugify} from "@sindresorhus/slugify";
 import markdownIt from "markdown-it";
 import fs from "fs";
-import * as matter from "gray-matter"
-import * as faviconsPlugin from "eleventy-plugin-gen-favicons"
-import * as tocPlugin from "eleventy-plugin-nesting-toc"
+import matter from "gray-matter"
+import faviconsPlugin from "eleventy-plugin-gen-favicons"
+import tocPlugin from "eleventy-plugin-nesting-toc"
 import {parse} from "node-html-parser";
-import * as htmlMinifier from "html-minifier-terser"
-import * as mathjax3 from "markdown-it-mathjax3"
-import * as markdownItAttrs from "markdown-it-attrs"
-import * as markdownItTaskCheckbox from "markdown-it-task-checkbox"
+import htmlMinifier from "html-minifier-terser"
+import mathjax3 from 'markdown-it-mathjax3';
+import markdownItAttrs from "markdown-it-attrs"
+import markdownItTaskCheckbox from "markdown-it-task-checkbox"
 import ShikiMarkdownIt from '@shikijs/markdown-it'
 
  
-import {feedPlugin} from "@11ty/eleventy-plugin-rss";
+import rssPlugin from "@11ty/eleventy-plugin-rss";
 
 import { headerToId, namedHeadingsFilter } from "./src/helpers/utils.js";
 import {
@@ -27,7 +27,7 @@ import markdownItAnchor from "markdown-it-anchor"
 import markdownItMark from "markdown-it-mark"
 import markdownItFootnote from "markdown-it-footnote"
 
-import * as markdownItPlantuml from "markdown-it-plantuml"
+import markdownItPlantuml from "markdown-it-plantuml"
 
 
 
@@ -622,7 +622,7 @@ export default async function (eleventyConfig) {
     return variable;
   });
 
-  eleventyConfig.addPlugin(feedPlugin, {
+  eleventyConfig.addPlugin(rssPlugin, {
     posthtmlRenderOptions: {
       closingSingleTag: "slash",
       singleTags: ["link"],
