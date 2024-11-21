@@ -1,25 +1,36 @@
 
+import Image from "@11ty/eleventy-img";
 
 import {default as slugify} from "@sindresorhus/slugify";
 import markdownIt from "markdown-it";
 import fs from "fs";
 import * as matter from "gray-matter"
+import * as faviconsPlugin from "eleventy-plugin-gen-favicons"
+import * as tocPlugin from "eleventy-plugin-nesting-toc"
 import {parse} from "node-html-parser";
 import * as htmlMinifier from "html-minifier-terser"
+import * as mathjax3 from "markdown-it-mathjax3"
+import * as markdownItAttrs from "markdown-it-attrs"
+import * as markdownItTaskCheckbox from "markdown-it-task-checkbox"
 import ShikiMarkdownIt from '@shikijs/markdown-it'
-import UpgradeHelper from "@11ty/eleventy-upgrade-help";
 
+ 
+import {feedPlugin} from "@11ty/eleventy-plugin-rss";
 
-import { headerToId, namedHeadingsFilter } from "./src/helpers/utils";
+import { headerToId, namedHeadingsFilter } from "./src/helpers/utils.js";
 import {
   userMarkdownSetup,
   userEleventySetup,
-} from "./src/helpers/userSetup";
+} from "./src/helpers/userSetup.js";
+
+import markdownItAnchor from "markdown-it-anchor"
+import markdownItMark from "markdown-it-mark"
+import markdownItFootnote from "markdown-it-footnote"
+
+import * as markdownItPlantuml from "markdown-it-plantuml"
 
 
 
-
-import Image from "@11ty/eleventy-img";
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
@@ -112,18 +123,18 @@ export default async function (eleventyConfig) {
   
   
   markdownLib
-    .use(await import("markdown-it-anchor"), {
+    .use(markdownItAnchor, {
       slugify: headerToId,
     })
     
-    .use((await import("markdown-it-mark")).default)
-    .use((await import("markdown-it-footnote")).default)
+    .use(markdownItMark)
+    .use(markdownItFootnote)
     .use(function (md) {
       md.renderer.rules.hashtag_open = function (tokens, idx) {
         return '<a class="tag" onclick="toggleTagSearch(this)">';
       };
     })
-    .use(await import("markdown-it-mathjax3"), {
+    .use(mathjax3, {
       tex: {
         inlineMath: [["$", "$"]],
       },
@@ -131,8 +142,8 @@ export default async function (eleventyConfig) {
         skipHtmlTags: { "[-]": ["pre"] },
       },
     })
-    .use(await import("markdown-it-attrs"))
-    .use(await import("markdown-it-task-checkbox"), {
+    .use(markdownItAttrs)
+    .use(markdownItTaskCheckbox, {
       disabled: true,
       divWrap: false,
       divClass: "checkbox",
@@ -140,7 +151,7 @@ export default async function (eleventyConfig) {
       ulClass: "task-list",
       liClass: "task-list-item",
     })
-    .use(await import("markdown-it-plantuml"), {
+    .use(markdownItPlantuml, {
       openMarker: "```plantuml",
       closeMarker: "```",
     })
@@ -533,7 +544,6 @@ export default async function (eleventyConfig) {
     }
     return str && parsed.innerHTML;
   });
-  eleventyConfig.addPlugin(UpgradeHelper)
 
   eleventyConfig.addTransform("table", function (str) {
     const parsed = parse(str);
@@ -584,8 +594,8 @@ export default async function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/site/img");
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
-  eleventyConfig.addPlugin(await import("eleventy-plugin-gen-favicons"), { outputDir: "dist" });
-  eleventyConfig.addPlugin(await import("eleventy-plugin-nesting-toc"), {
+  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
+  eleventyConfig.addPlugin(tocPlugin, {
     ul: true,
     tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
   });
@@ -612,7 +622,7 @@ export default async function (eleventyConfig) {
     return variable;
   });
 
-  eleventyConfig.addPlugin((await import("@11ty/eleventy-plugin-rss")).feedPlugin, {
+  eleventyConfig.addPlugin(feedPlugin, {
     posthtmlRenderOptions: {
       closingSingleTag: "slash",
       singleTags: ["link"],
@@ -620,16 +630,18 @@ export default async function (eleventyConfig) {
   });
 
   userEleventySetup(eleventyConfig);
+};
 
-  return {
-    dir: {
-      input: "src/site",
-      output: "dist",
-      data: `_data`,
-    },
-    templateFormats: ["njk", "md", "11ty.js"],
-    htmlTemplateEngine: "njk",
-    markdownTemplateEngine: false,
-    passthroughFileCopy: true,
-  };
+
+
+export const config = {
+  dir: {
+    input: "src/site",
+    output: "dist",
+    data: `_data`,
+  },
+  templateFormats: ["njk", "md", "11ty.js"],
+  htmlTemplateEngine: "njk",
+  markdownTemplateEngine: false,
+  passthroughFileCopy: true,
 };

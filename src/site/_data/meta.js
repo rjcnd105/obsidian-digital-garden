@@ -1,7 +1,9 @@
-require("dotenv").config();
-const { globSync } = require("glob");
+import {config} from "dotenv"
+import {globSync} from "glob";
 
-module.exports = async (data) => {
+config()
+
+export default async function(data) {
   let baseUrl = process.env.SITE_BASE_URL || "";
   if (baseUrl && !baseUrl.startsWith("http")) {
     baseUrl = "https://" + baseUrl;
@@ -26,22 +28,22 @@ module.exports = async (data) => {
     noteIconsSettings.title = true;
   }
   if (
-    process.env.NOTE_ICON_FILETREE &&
-    process.env.NOTE_ICON_FILETREE == "true"
+      process.env.NOTE_ICON_FILETREE &&
+      process.env.NOTE_ICON_FILETREE == "true"
   ) {
     bodyClasses.push("filetree-note-icon");
     noteIconsSettings.filetree = true;
   }
   if (
-    process.env.NOTE_ICON_INTERNAL_LINKS &&
-    process.env.NOTE_ICON_INTERNAL_LINKS == "true"
+      process.env.NOTE_ICON_INTERNAL_LINKS &&
+      process.env.NOTE_ICON_INTERNAL_LINKS == "true"
   ) {
     bodyClasses.push("links-note-icon");
     noteIconsSettings.links = true;
   }
   if (
-    process.env.NOTE_ICON_BACK_LINKS &&
-    process.env.NOTE_ICON_BACK_LINKS == "true"
+      process.env.NOTE_ICON_BACK_LINKS &&
+      process.env.NOTE_ICON_BACK_LINKS == "true"
   ) {
     bodyClasses.push("backlinks-note-icon");
     noteIconsSettings.backlinks = true;
@@ -74,4 +76,4 @@ module.exports = async (data) => {
   };
 
   return meta;
-};
+}

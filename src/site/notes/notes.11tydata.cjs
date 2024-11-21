@@ -1,5 +1,5 @@
 require("dotenv").config();
-const settings = require("../../helpers/constants");
+const settings = require("src/helpers/constants.js");
 
 const allSettings = settings.ALL_NOTE_SETTINGS;
 

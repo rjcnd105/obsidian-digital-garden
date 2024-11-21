@@ -112,7 +112,7 @@ function assignNested(obj, keyPath, value) {
   obj[keyPath[lastKeyIndex]] = value;
 }
 
-function getFileTree(data) {
+export function getFileTree(data) {
   const tree = {};
   (data.collections.note || []).forEach((note) => {
     const [meta, folders] = getPermalinkMeta(note);
@@ -121,5 +121,3 @@ function getFileTree(data) {
   const fileTree = sortTree(tree);
   return fileTree;
 }
-
-exports.getFileTree = getFileTree;

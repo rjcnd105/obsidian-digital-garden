@@ -1,8 +1,12 @@
-require("dotenv").config();
-const axios = require("axios");
-const fs = require("fs");
-const crypto = require("crypto");
-const {globSync} = require("glob");
+
+import {config} from "dotenv"
+import axios from "axios";
+import fs from "fs";
+import crypto from "crypto";
+import {globSync} from "glob";
+
+ 
+config()
 
 const themeCommentRegex = /\/\*[\s\S]*?\*\//g;
 
@@ -11,7 +15,7 @@ async function getTheme() {
   if (themeUrl) {
     //https://forum.obsidian.md/t/1-0-theme-migration-guide/42537
     //Not all themes with no legacy mark have a theme.css file, so we need to check for it
-    try {
+    try { 
       await axios.get(themeUrl);
     } catch {
       if (themeUrl.indexOf("theme.css") > -1) {

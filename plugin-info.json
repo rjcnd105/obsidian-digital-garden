@@ -27,7 +27,7 @@
         "netlify.toml"
     ],
     "filesToModify": [
-        ".eleventy.js",
+        "eleventy.config.mjs",
         ".eleventyignore",
         "README.md",
         "package-lock.json",

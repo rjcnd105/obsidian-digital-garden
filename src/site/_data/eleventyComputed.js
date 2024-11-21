@@ -1,9 +1,3 @@
-const { getGraph } = require("../../helpers/linkUtils");
-const { getFileTree } = require("../../helpers/filetreeUtils");
-const { userComputed } = require("../../helpers/userUtils");
-
-module.exports = {
-  graph: (data) => getGraph(data),
-  filetree: (data) => getFileTree(data),
-  userComputed: (data) => userComputed(data)
-};
+export {getGraph} from "src/helpers/linkUtils.js";
+export {getFileTree} from "src/helpers/filetreeUtils.js";
+export {userComputed} from "src/helpers/userUtils.js";
