@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Editor/zed config/","tags":["nix","sh"]}
+{"dg-publish":true,"createdAt":"2024.10.07 월 오후 16:32","modifiedAt":"2024.11.19 화 오후 15:07","tags":["nix","sh"],"permalink":"/Editor/zed config/","dgPassFrontmatter":true}
 ---
 
 

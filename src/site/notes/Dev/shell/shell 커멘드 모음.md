@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dev/shell/shell 커멘드 모음/"}
+{"dg-publish":true,"createdAt":"2024.07.19 금 오후 15:58","modifiedAt":"2024.07.19 금 오후 17:22","permalink":"/Dev/shell/shell 커멘드 모음/","dgPassFrontmatter":true}
 ---
 
 #shell

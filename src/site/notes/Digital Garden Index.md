@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/Digital Garden Index/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"createdAt":"2024.03.29 금 오후 17:19","modifiedAt":"2024.11.21 목 오후 21:50","permalink":"/Digital Garden Index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
-
+ 
 ## 최근 업데이트순 (modified date)
-- [[Dev/nix/index\|index]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.20 PM 5:30 </span>
+- [[Dev/nix/language\|language]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.21 PM 3:22 </span>
+- [[Dev/nix/basic\|basic]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.20 PM 5:30 </span>
 - [[Dev/nix/concept learning\|concept learning]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.20 PM 5:30 </span>
 - [[Dev/nix/packages\|packages]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.20 PM 5:30 </span>
 - [[Editor/zed config\|zed config]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Editor `-2024.11.19 PM 3:07 </span>
-- [[Dev/nix/language\|language]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.16 PM 5:55 </span>
 - [[Dev/elixir/language/erlang 데이터 구조\|erlang 데이터 구조]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/language `-2024.11.16 PM 2:17 </span>
 - [[Dev/elixir/elixir install\|elixir install]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2024.11.15 PM 6:36 </span>
 - [[Dev/haskell/get programming with haskell\|get programming with haskell]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/haskell `-2024.11.10 PM 8:06 </span>
@@ -58,7 +58,7 @@
 - [[Dev/elixir/language/Elixir study\|Elixir study]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/language ` 2024.11.08 PM 5:26 </span>
 - [[Dev/web/빡쳤던 노트\|빡쳤던 노트]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web ` 2024.10.18 AM 11:38 </span>
 - [[Editor/zed config\|zed config]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Editor ` 2024.10.07 PM 4:32 </span>
-- [[Dev/nix/index\|index]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix ` 2024.10.02 PM 6:58 </span>
+- [[Dev/nix/basic\|basic]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix ` 2024.10.02 PM 6:58 </span>
 - [[Dev/shell/shell 커멘드 모음\|shell 커멘드 모음]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/shell ` 2024.07.19 PM 3:58 </span>
 - [[Philosophia/Books/reading/게릴라 러닝\|게릴라 러닝]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Books/reading ` 2024.05.21 PM 3:51 </span>
 - [[Dev/web/useage_pattern/css\|css]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web/useage_pattern ` 2024.05.21 PM 3:31 </span>

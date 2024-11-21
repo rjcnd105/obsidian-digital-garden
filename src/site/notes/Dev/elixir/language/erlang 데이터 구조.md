@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dev/elixir/language/erlang 데이터 구조/","tags":["#erlang","#elixir","#data_structure","#ets"]}
+{"dg-publish":true,"createdAt":"2024.11.08 금 오후 17:43","modifiedAt":"2024.11.16 토 오후 14:17","tags":["erlang","elixir","data_structure","ets"],"permalink":"/Dev/elixir/language/erlang 데이터 구조/","dgPassFrontmatter":true}
 ---
 
 
