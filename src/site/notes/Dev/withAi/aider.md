@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dev/withAi/aider/"}
+{"dg-publish":true,"createdAt":"2024.07.26 금 오후 14:35","modifiedAt":"2024.07.26 금 오후 14:45","permalink":"/Dev/withAi/aider/","dgPassFrontmatter":true}
 ---
 
 

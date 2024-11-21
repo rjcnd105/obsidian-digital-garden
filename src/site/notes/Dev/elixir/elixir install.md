@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dev/elixir/elixir install/","tags":["#elixir","#zed","#pkgx","#erlang","#lexical-lsp","#next-ls"]}
+{"dg-publish":true,"createdAt":"2024.04.01 월 오후 18:10","modifiedAt":"2024.11.15 금 오후 18:36","tags":["elixir","zed","pkgx","erlang","lexical-lsp","next-ls"],"permalink":"/Dev/elixir/elixir install/","dgPassFrontmatter":true}
 ---
 
 

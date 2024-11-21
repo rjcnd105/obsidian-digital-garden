@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dev/haskell/get programming with haskell/","tags":["#haskell","#study"]}
+{"dg-publish":true,"tags":["haskell","study"],"createdAt":"2024.02.18 일 오후 16:55","modifiedAt":"2024.04.03 수 오후 18:47","permalink":"/Dev/haskell/get programming with haskell/","dgPassFrontmatter":true}
 ---
 
 source

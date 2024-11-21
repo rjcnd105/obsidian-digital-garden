@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dev/haskell/haskell in action/","tags":["#haskell","#ghcup","#study"]}
+{"dg-publish":true,"tags":["haskell","ghcup","study"],"createdAt":"2024.02.04 일 오후 18:37","modifiedAt":"2024.03.29 금 오후 19:14","permalink":"/Dev/haskell/haskell in action/","dgPassFrontmatter":true}
 ---
 
 # Install

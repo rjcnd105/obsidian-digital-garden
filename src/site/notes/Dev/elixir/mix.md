@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dev/elixir/mix/","tags":["#elixir","#mix","#hex"]}
+{"dg-publish":true,"createdAt":"2024.04.03 수 오후 13:57","modifiedAt":"2024.04.23 화 오후 16:19","tags":["elixir","mix","hex"],"permalink":"/Dev/elixir/mix/","dgPassFrontmatter":true}
 ---
 
 elixir의 통합 관리자 cli

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Study_etc/Zettelkasten/"}
+{"dg-publish":true,"createdAt":"2024.02.04 일 오후 15:31","modifiedAt":"2024.04.03 수 오후 18:22","permalink":"/Study_etc/Zettelkasten/","dgPassFrontmatter":true}
 ---
 
 #### 임시 노트

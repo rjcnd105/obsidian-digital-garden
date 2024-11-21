@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dev/nix/index/","tags":["nix","nix_flake"]}
+{"dg-publish":true,"createdAt":"2024.10.02 수 오후 18:58","modifiedAt":"2024.11.20 수 오후 17:30","tags":["nix","nix_flake"],"permalink":"/Dev/nix/basic/","dgPassFrontmatter":true}
 ---
 
 > 언제까지 프로젝트를 시작할때 마다 매번 같은 환경 세팅을 하고, 누군가는 되는데 os가 다르다고 설치 과정에서 문제가 생기고, 각자 다른 시스템 환경 때문에 고생을 할 것인가. 

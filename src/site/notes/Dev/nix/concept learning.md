@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dev/nix/concept learning/","tags":["nix","flake","direnv","nix_develop","nix_profile","nix_flake"]}
+{"dg-publish":true,"createdAt":"2024.11.19 화 오후 14:33","modifiedAt":"2024.11.20 수 오후 17:30","tags":["nix","flake","direnv","nix_develop","nix_profile","nix_flake"],"permalink":"/Dev/nix/concept learning/","dgPassFrontmatter":true}
 ---
 
 

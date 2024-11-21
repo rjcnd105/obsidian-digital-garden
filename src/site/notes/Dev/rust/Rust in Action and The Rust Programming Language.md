@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dev/rust/Rust in Action and The Rust Programming Language/","tags":["#rust","#book","#study"]}
+{"dg-publish":true,"tags":["rust","book","study"],"createdAt":"2024.02.04 일 오후 16:44","modifiedAt":"2024.04.03 수 오후 18:54","permalink":"/Dev/rust/Rust in Action and The Rust Programming Language/","dgPassFrontmatter":true}
 ---
 
 

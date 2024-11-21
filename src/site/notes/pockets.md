@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pockets/","tags":["참조","아티클","개발"]}
+{"dg-publish":true,"tags":["참조","아티클","개발"],"createdAt":"2024.02.04 일 오후 17:35","modifiedAt":"2024.04.29 월 오후 16:01","permalink":"/pockets/","dgPassFrontmatter":true}
 ---
 
 

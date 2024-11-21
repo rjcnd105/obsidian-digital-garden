@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dev/elixir/language/Elixir study/"}
+{"dg-publish":true,"createdAt":"2024.11.08 금 오후 17:26","modifiedAt":"2024.11.08 금 오후 17:43","permalink":"/Dev/elixir/language/Elixir study/","dgPassFrontmatter":true}
 ---
 
 # Elixir in action - part1

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dev/elixir/phoenix/phoenix/"}
+{"dg-publish":true,"createdAt":"2024.04.19 금 오후 12:56","modifiedAt":"2024.04.19 금 오후 13:12","permalink":"/Dev/elixir/phoenix/phoenix/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dev/nix/packages/","tags":["nix","nix_flake"]}
+{"dg-publish":true,"createdAt":"2024.11.14 목 오후 17:29","modifiedAt":"2024.11.20 수 오후 17:30","tags":["nix","nix_flake"],"permalink":"/Dev/nix/packages/","dgPassFrontmatter":true}
 ---
 
 
