@@ -5,8 +5,8 @@
 
  
 ## 최근 업데이트순 (modified date)
+- [[Dev/nix/basic\|basic]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.21 PM 11:32 </span>
 - [[Dev/nix/language\|language]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.21 PM 3:22 </span>
-- [[Dev/nix/basic\|basic]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.20 PM 5:30 </span>
 - [[Dev/nix/concept learning\|concept learning]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.20 PM 5:30 </span>
 - [[Dev/nix/packages\|packages]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.20 PM 5:30 </span>
 - [[Editor/zed config\|zed config]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Editor `-2024.11.19 PM 3:07 </span>
