@@ -245,12 +245,19 @@ module.exports = function (eleventyConfig) {
       const defaultLinkRule =
         md.renderer.rules.link_open ||
         function (tokens, idx, options, env, self) {
-          return self.renderToken(tokens, idx, options, env, self);
+          return self.renderToken(tokens, idx, {options}, env, self);
         };
       md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
+        const hrefIndex = tokens[idx].attrIndex("href");
         const aIndex = tokens[idx].attrIndex("target");
         const classIndex = tokens[idx].attrIndex("class");
 
+        if(hrefIndex < 0) {
+          const href = tokens[idx].attrGet("href")
+          tokens[idx].attrPush(["href", encodeURI(href)]);
+        } else {
+          tokens[idx].attrs[hrefIndex][1] = encodeURI(tokens[idx].attrs[hrefIndex][1]);
+        }
         if (aIndex < 0) {
           tokens[idx].attrPush(["target", "_blank"]);
         } else {
