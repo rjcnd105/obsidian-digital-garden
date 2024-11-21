@@ -1,6 +1,6 @@
 import {config} from "dotenv"
 
-import * as settings from "/src/helpers/constants.js"
+import * as settings from "../../helpers/constants.js"
 
 config()
 const allSettings = settings.ALL_NOTE_SETTINGS;

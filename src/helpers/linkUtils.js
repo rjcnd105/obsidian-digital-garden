@@ -1,3 +1,5 @@
+import {inspect} from "node:util";
+
 export const wikiLinkRegex = /\[\[(.*?\|.*?)\]\]/g;
 export const internalLinkRegex = /href="\/(.*?)"/g;
 
@@ -8,24 +10,24 @@ function caselessCompare(a, b) {
 export function extractLinks(content) {
   return [
     ...(content.match(wikiLinkRegex) || []).map(
-      (link) =>
-        link
-          .slice(2, -2)
-          .split("|")[0]
-          .replace(/.(md|markdown)\s?$/i, "")
-          .replace("\\", "")
-          .trim()
-          .split("#")[0]
+        (link) =>
+            link
+                .slice(2, -2)
+                .split("|")[0]
+                .replace(/.(md|markdown)\s?$/i, "")
+                .replace("\\", "")
+                .trim()
+                .split("#")[0]
     ),
     ...(content.match(internalLinkRegex) || []).map(
-      (link) =>
-        link
-          .slice(6, -1)
-          .split("|")[0]
-          .replace(/.(md|markdown)\s?$/i, "")
-          .replace("\\", "")
-          .trim()
-          .split("#")[0]
+        (link) =>
+            link
+                .slice(6, -1)
+                .split("|")[0]
+                .replace(/.(md|markdown)\s?$/i, "")
+                .replace("\\", "")
+                .trim()
+                .split("#")[0]
     ),
   ];
 }
@@ -35,8 +37,19 @@ export function getGraph(data) {
   let links = [];
   let stemURLs = {};
   let homeAlias = "/";
-  (data.collections.note || []).forEach((v, idx) => {
+      
+      
+  (data.collections.note || []).forEach(async (v, idx) => {
     let fpath = v.filePathStem.replace("/notes/", "");
+    
+    // console.log(inspect(v.template.templateData, {
+    //   depth: 1,  // 모든 중첩 레벨을 보여줌
+    //   colors: true, // 색상 강조
+    //   maxArrayLength: null, // 배열 전체를 보여줌
+    //   showHidden: true, // non-enumerable 속성도 보여줌
+    //   // getters: true,
+    //  
+    // }), )
     let parts = fpath.split("/");
     let group = "none";
     if (parts.length >= 3) {
@@ -48,10 +61,10 @@ export function getGraph(data) {
       url: v.url,
       group,
       home:
-        v.data["dg-home"] ||
-        (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1) ||
-        false,
-      outBound: extractLinks(v.template.frontMatter.content),
+          v.data["dg-home"] ||
+          (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1) ||
+          false,
+      outBound: extractLinks(await v.template.inputContent),
       neighbors: new Set(),
       backLinks: new Set(),
       noteIcon: v.data.noteIcon || process.env.NOTE_ICON_DEFAULT,
@@ -59,8 +72,8 @@ export function getGraph(data) {
     };
     stemURLs[fpath] = v.url;
     if (
-      v.data["dg-home"] ||
-      (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1)
+        v.data["dg-home"] ||
+        (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1)
     ) {
       homeAlias = v.url;
     }
@@ -87,6 +100,8 @@ export function getGraph(data) {
     nodes[k].backLinks = Array.from(nodes[k].backLinks);
     nodes[k].size = nodes[k].neighbors.length;
   });
+  
+  // console.log("homeAlias, nodes, links", data.collections, homeAlias, nodes, links)
   return {
     homeAlias,
     nodes,

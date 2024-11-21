@@ -12,7 +12,6 @@ import htmlMinifier from "html-minifier-terser"
 import mathjax3 from 'markdown-it-mathjax3';
 import markdownItAttrs from "markdown-it-attrs"
 import markdownItTaskCheckbox from "markdown-it-task-checkbox"
-import ShikiMarkdownIt from '@shikijs/markdown-it'
 
  
 import rssPlugin from "@11ty/eleventy-plugin-rss";
@@ -28,6 +27,7 @@ import markdownItMark from "markdown-it-mark"
 import markdownItFootnote from "markdown-it-footnote"
 
 import markdownItPlantuml from "markdown-it-plantuml"
+import markdownItShiki from "@shikijs/markdown-it";
 
 
 
@@ -108,20 +108,24 @@ function getAnchorAttributes(filePath, linkTitle) {
 }
 
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
+const defaultHighlighter = (str, lang) => `<pre><code class="language-${lang}">${str}</code></pre>`;
+
 
 let markdownLib = markdownIt({
   breaks: true,
   html: true,
   linkify: true,
+  highlight:defaultHighlighter,
 })
+
+
 
 
 export default async function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
-  
-  
+
   markdownLib
     .use(markdownItAnchor, {
       slugify: headerToId,
@@ -295,47 +299,6 @@ export default async function (eleventyConfig) {
         return defaultLinkRule(tokens, idx, options, env, self);
       };
     })
-      .use(await ShikiMarkdownIt({
-        theme: 'catppuccin-mocha',
-        langs: [
-          'javascript',
-          'typescript',
-          'shellscript',
-          'latex',
-          'templ',
-          'typespec',
-          'typst',
-          'yaml',
-          'postcss',
-          'regexp',
-          'sql',
-          'terraform',
-          'haskell',
-          "bash",
-          'nix',
-          'elixir',
-          'erlang',
-          'gleam',
-          'rust',
-          'markdown',
-          'css',
-          'sass',
-          'html',
-          'toml',
-          'docker',
-          'dotenv',
-          'dart',
-          'ini',
-          'json',
-          'jsonc',
-          'make',
-          'mdx',
-          'mermaid',
-          'ocaml',
-          'jsx',
-          'tsx',
-          'xml'
-        ]}))
     .use(userMarkdownSetup)
 
   eleventyConfig.setLibrary("md", markdownLib);
@@ -627,6 +590,58 @@ export default async function (eleventyConfig) {
       closingSingleTag: "slash",
       singleTags: ["link"],
     },
+  });
+
+
+  eleventyConfig.amendLibrary("md",  async mdLib => {
+    try {
+      return (await markdownItShiki({
+        theme: 'catppuccin-mocha',
+        langs: [
+          'javascript',
+          'typescript',
+          'shellscript',
+          'latex',
+          'templ',
+          'typespec',
+          'typst',
+          'yaml',
+          'postcss',
+          'regexp',
+          'sql',
+          'terraform',
+          'haskell',
+          "bash",
+          'nix',
+          'elixir',
+          'erlang',
+          'gleam',
+          'rust',
+          'markdown',
+          'css',
+          'sass',
+          'html',
+          'toml',
+          'docker',
+          'dotenv',
+          'dart',
+          'ini',
+          'json',
+          'jsonc',
+          'make',
+          'mdx',
+          'mermaid',
+          'ocaml',
+          'jsx',
+          'tsx',
+          'xml'
+        ]}))(mdLib)
+    
+    } catch (e) {
+      // console.warn('Failed to initialize shiki:', e);
+      // shiki 초기화 실패시 기본 코드 블록 사용
+      mdLib.options.highlight = defaultHighlighter
+    }
   });
 
   userEleventySetup(eleventyConfig);
