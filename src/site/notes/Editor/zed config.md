@@ -95,7 +95,7 @@ install extention
 https://github.com/zed-extensions/nix
 
 settings.json
-``` json
+```json
 {
 	"lsp": {
 	    "nixd": {
