@@ -4,5 +4,16 @@
     "buildCommand": "bun run build",
     "devCommand": "bun run start",
     "rewrites": [{ "source": "/(.*)", "destination": "/404" }],
-    "contentDispositionType": "inline"
+    "headers": [
+        {
+            "source": "/(.*)",
+            "headers": [
+                {
+                    "key": "Content-Disposition",
+                    "value": "inline"
+                }
+            ]
+        }
+    ],
+    "cleanUrls": true
 }
