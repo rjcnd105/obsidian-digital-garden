@@ -85,7 +85,7 @@ function getAnchorAttributes(filePath, linkTitle) {
       "class": "internal-link",
       "target": "",
       "data-note-icon": noteIcon,
-      "href": `${permalink}${headerLinkPath}`,
+      "href": encodeURI(`${permalink}${headerLinkPath}`),
     },
     innerHTML: title,
   }
@@ -291,7 +291,7 @@ module.exports = function (eleventyConfig) {
         }
         const [fileLink, linkTitle] = p1.split("|");
 
-        return getAnchorLink(encodeURI(fileLink), linkTitle);
+        return getAnchorLink(fileLink, linkTitle);
       })
     );
   });
