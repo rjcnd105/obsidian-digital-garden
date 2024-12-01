@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"createdAt":"2024.10.07 월 오후 16:32","modifiedAt":"2024.11.19 화 오후 15:07","tags":["nix","sh"],"permalink":"/Editor/zed config/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2024.10.07 월 오후 16:32","modifiedAt":"2024.12.01 일 오후 16:34","tags":["nix","sh"],"permalink":"/Editor/zed config/","dgPassFrontmatter":true}
 ---
 
 
@@ -100,15 +100,19 @@ settings.json
 	"lsp": {
 	    "nixd": {
 		      "settings": {
-		        "diagnostic": {
-		          "suppress": ["sema-extra-with"]
-		        }
+		        
 		      }
 	    }
 	 },
 	 "languages": {
 			"Nix": {
 				"language_servers": [ "nixd", "!nil" ],
+				"formatter": {
+			        "external": {
+			          "command": "nixfmt",
+			          "arguments": []
+			        }
+			      }
 			}
 		}
 	}
