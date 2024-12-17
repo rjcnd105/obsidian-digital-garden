@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"createdAt":"2024.10.07 월 오후 16:32","modifiedAt":"2024.12.01 일 오후 16:34","tags":["nix","sh"],"permalink":"/Editor/zed config/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2024.10.07 월 오후 16:32","modifiedAt":"2024.12.17 화 오후 19:53","tags":["nix","sh"],"permalink":"/Editor/zed config/","dgPassFrontmatter":true}
 ---
 
 
@@ -7,7 +7,7 @@
 
 `cmd+shift+p` -> open task
 
-task.json
+tasks.json
 ```json
 [
   {
@@ -35,7 +35,8 @@ custom_runfile.sh
 # Access the full path using ZED_FILE
 full_path="$ZED_FILE"
 
-# Extract filename with extension
+# Extract filename with extensionㄴ
+
 filename_ext=$(basename "$full_path")
 
 # Extract filename and extension
@@ -54,6 +55,21 @@ fi
 
 ```
 
+
+키 맵으로 추가(cmd+r)
+```json
+[ 
+	{
+    "context": "Workspace",
+    "bindings": {
+      // "shift shift": "file_finder::Toggle"
+      //
+
+      "cmd-r": ["task::Spawn", { "task_name": "run file" }]
+    }
+  },
+]
+```
 
 --- 
 aditional
