@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"createdAt":"2024.10.07 월 오후 16:32","modifiedAt":"2024.12.17 화 오후 19:53","tags":["nix","sh"],"permalink":"/Editor/zed config/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2024.10.07 월 오후 16:32","modifiedAt":"2025.01.10 금 오후 13:00","tags":["nix","sh"],"permalink":"/Editor/zed config/","dgPassFrontmatter":true}
 ---
 
 
-### file run 
+https://github.com/rjcnd105/hj-dotfiles/tree/main/files/workspace/.config/zed
+여기서 파일들을 볼 수 있습니다.
+
+### file run
 
 `cmd+shift+p` -> open task
 
@@ -22,7 +25,6 @@ tasks.json
 ```
 
 그 다음 custom_runfile.sh 구성
-
 ```sh
 touch ~/.config/zed/custom_runfile.sh
 zed ~/.config/zed/custom_runfile.sh
@@ -55,7 +57,6 @@ fi
 
 ```
 
-
 키 맵으로 추가(cmd+r)
 ```json
 [ 
@@ -71,12 +72,12 @@ fi
 ]
 ```
 
---- 
+---
+
 aditional
 vscode에서 위 sh 사용
 
 `cmd+shift+p` -> config user task
- 
 ```json
 {
 	
@@ -103,8 +104,8 @@ vscode에서 위 sh 사용
 }
 ```
 
-
 ### nix
+
 lsp설정 추가랑 language_servers랑 둘 다 명시해줘야함.
 
 install extention
