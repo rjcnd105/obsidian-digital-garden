@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"createdAt":"2024.07.19 금 오후 15:58","modifiedAt":"2025.01.14 화 오후 12:09","tags":["shell","bash"],"permalink":"/Dev/shell/shell scripts/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2024.07.19 금 오후 15:58","modifiedAt":"2025.01.14 화 오후 12:11","tags":["shell","bash"],"permalink":"/Dev/shell/shell scripts/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,6 +9,8 @@
 `sudo chown $(whoami) /usr/local/etc`
 
 ### 파일
+
+#### 파일 작성
 
 파일 생성하면서 내용 작성 (>>는 추가)
 `echo "address=/localhost/192.168.35.90" > brew --prefix)/etc/dnsmasq.conf
@@ -33,7 +35,7 @@ cat > lib/app_config.ex << EOF
 
 ### 조건
 
-**파일 여부 분기**
+#### 파일 여부 분기
 
 ```bash
 
@@ -42,7 +44,8 @@ if [[ -f "$HOME/.config/mise/config.toml" ]]; then
 fi
 ```
 
-**폴더 여부 분기**
+#### 폴더 여부 분기
+
 ```bash
 if [ ! -d "lib" ]; then
 	echo "Creating lib directory..."
@@ -50,7 +53,8 @@ if [ ! -d "lib" ]; then
 fi
 ```
 
-**파이프라인**
+### pipe
+
 한 줄에서 실행하는 것처럼 실행됨.
 
 `-e` (errexit)
