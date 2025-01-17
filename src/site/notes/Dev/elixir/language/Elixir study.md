@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"createdAt":"2024.11.08 금 오후 17:26","modifiedAt":"2024.11.08 금 오후 17:43","permalink":"/Dev/elixir/language/Elixir study/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2024.11.08 금 오후 17:26","modifiedAt":"2025.01.17 금 오후 16:55","permalink":"/Dev/elixir/language/Elixir study/","dgPassFrontmatter":true}
 ---
+
 
 # Elixir in action - part1
 
@@ -1364,4 +1365,3 @@ TodoList_proto3.CsvImporter.from_file(
   "/Users/hj/study/elixir-action/livebook/2024_03_24/10_26_57ke/files/data.csv"
 )
 ```
-

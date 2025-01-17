@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"createdAt":"2024.11.08 금 오후 17:43","modifiedAt":"2024.11.16 토 오후 14:17","tags":["erlang","elixir","data_structure","ets"],"permalink":"/Dev/elixir/language/erlang 데이터 구조/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2024.11.08 금 오후 17:43","modifiedAt":"2025.01.10 금 오후 12:12","tags":["erlang","elixir","data_structure","ets"],"permalink":"/Dev/elixir/language/erlang 데이터 구조/","dgPassFrontmatter":true}
 ---
 
 
 elixir는 erlang의 모든 데이터 구조를 사용할 수 있다.
-### queue 
-FIFO(선입선출)식 데이터 구조. O(N) 
+
+### queue
+
+FIFO(선입선출)식 데이터 구조. O(N)
+
 ```elixir
 ex(1) > my_queue = :queue.new()
 # {[], []}
@@ -21,12 +24,13 @@ iex(6) > {:empty, my_queue} = :queue.out(my_queue)
 # {:empty, {[], []}}
 ```
 
-
 ### sets
+
 https://www.erlang.org/doc/apps/stdlib/sets.html
 
 유니크한 값 그룹
 version:2 는 OTP 24+를 실행하는 경우에만 사용할 수 있으며 더 성능이 좋은 집합 표현이니 무조건 쓴다고 생각하셈.
+
 ```elixir
 iex(1) > unique_emails = :sets.new(version: 2)
 # %{}
@@ -38,12 +42,13 @@ iex(4) > unique_emails = :sets.add_element("jane@cool-app.com", unique_emails)
 # %{"jane@cool-app.com" => [], "john@cool-app.com" => []}>)
 ```
 
-
 ### ordsets
+
 https://www.erlang.org/doc/apps/stdlib/ordsets.html
 
 정렬된 sets.
 sets.to_list는 순서를 보장하지 않지만, ordsets.to_list는 순서가 보장됨
+
 ```elixir
 iex(1) > set = :ordsets.new()
 # [] 
@@ -57,8 +62,8 @@ iex(5) > :ordsets.to_list(set)
 # ["Alex Koutmos", "Jane Smith"]
 ```
 
-
 ### gb_sets
+
 https://www.erlang.org/doc/apps/stdlib/gb_sets.html
 
 균형 트리 기반의 sets
@@ -79,8 +84,8 @@ iex(6) > :gb_sets.to_list(set) ③
 # [2, 10, 42]
 ```
 
-
 ### array
+
 https://www.erlang.org/doc/apps/stdlib/array.html
 
 ```elixir
@@ -107,11 +112,12 @@ iex(6) > :array.get(2, array)
 "Jannet Angelo"
 ```
 
-
 ### timer
+
 https://www.erlang.org/doc/apps/stdlib/timer.html
 
 시간을 측정하는데 유용하다
+
 ```elixir
 large_dataset = Enum.to_list(1..2_500_000)
 
@@ -145,9 +151,9 @@ stream_time
 # Stream time (ms): 1043
 ```
 
-
 ### use case: binary_to_term, term_to_binary
-term이란 elixir, erlang에서 사용하는 데이터 조각이다. 
+
+term이란 elixir, erlang에서 사용하는 데이터 조각이다.
 신뢰할 수 있는 다른 어플리케이션등으로 데이터를 전송해야 하는 경우 유용하다.
 신뢰할 수 없는 경우에는 꼭 :safe 옵션을 주자.
 
@@ -162,8 +168,8 @@ iex(3) > base_64_serialized |> Base.decode64!() |> :erlang.binary_to_term([:safe
 # %{age: 42, favorite_lang: :elixir, name: "John Smith"}
 ```
 
-
 ### md5
+
 해시를 빠르게 생성할 수 있으므로 파일의 변경을 추적하는 상황에서 유용하다.
 
 ```elixir
@@ -173,11 +179,12 @@ iex(1) > "./elixir_patterns.pdf"
 # <<168, 142, 134, 106, 203, 208, 151, 185, 200, 125, 31, 103, 26, 184, 157, 110>>
 ```
 
-
 ### phash2
+
 데이터를 분할하거나 프로세스/노드 그룹에 작업을 분산해야 하는 경우 우용하다.
 아래 예에서는 term에 대해서 0~9사이의 인덱스에 각각의 작업이 분배된 것이다.
 약간의 차이는 있지만 얼추 균등하게 작업이 분배된 것을 볼 수 있다.
+
 ```elixir
 iex(1) > 1..100_000 |>
 ...(1) > Enum.reduce(%{}, fn number, acc ->
@@ -198,8 +205,8 @@ iex(1) > 1..100_000 |>
 # }
 ```
 
-
 ### memory
+
 ```elixir
 iex(8)> :erlang.memory()
 [
@@ -215,8 +222,8 @@ iex(8)> :erlang.memory()
 ]
 ```
 
-
 ### system_info
+
 ```elixir
 iex(9)> :erlang.system_info(:system_version)
 ~c"Erlang/OTP 27 [erts-15.0.1] [source] [64-bit] [smp:10:10] [ds:10:10:10] [async-threads:1] [jit]\n"
@@ -232,12 +239,12 @@ iex(6) > :erlang.system_info(:emu_flavor)
 :jit
 ```
 
-
-
 ### [Digraph](https://www.erlang.org/doc/apps/stdlib/digraph.html)
+
 방향이 있는 그래프로써 Mutable 자료형이다.
 상태는 [ETS](https://elixirschool.com/ko/lessons/storage/ets)에 지속된다.
 아래와 같은 workflow를 elixir의 Digraph로 만들어보자.
+
 ```mermaid
 flowchart LR
 create_user --> upload_avatar
@@ -308,6 +315,7 @@ Running the following step: Send welcome email
 iex(16) > :digraph.delete(my_workflow) ⑥
 # true
 ```
+
 add_vertex:  정점을 생성
 add_edge: 방향을 긋는다.
 info:  얼마나 많은 메모리를 소비하는지와 세부 사항을 확인할 수 있다.
@@ -317,20 +325,19 @@ is_acyclic: 순환적이지 않은지 확인
 delete: ets 테이블을 삭제하고 정리
 digraph_utils.topsort: 그래프를 위상 정렬. 부모 정점이 자식 정점보다 먼저 방문하도록 하여 모든 종속성을 평가할 수 있도록 한다.
 
-
-
-
 ### :atomics, :counters module
+
 이들은 가변 데이터이며 데이터 구조라기보단 그 이상의 것이다.
 목적 기반 저장 메커니즘이며 고도로 최적화하는 사용 사례가 필요할때를 위해 존재한다.
 특히 :atomics, :counters 모듈은 가능한 성능이 좋은 방식으로 숫자 배열에 더하고 빼는 작업을 하기 위해 특별히 설계된 하드웨어 가속 모듈이다.
 차이는 :atomics는 많은 변경이 일어나더라도 데이터 불일치가 발생하지 않고
-:counters는 읽기 불일치를 대가로 추가적인 성능을 얻을 수 있다.
-
+:counters는 읽기 불일치를 대가로 추가적인 성능을 얻을 수 있다.z
 
 ### 저장소 모듈
-:ets - 메모리 기반 저장소 
+
+:ets - 메모리 기반 저장소
 :dets - 디스크 기반 저장소, ets와 1:1 호환 가능함
 
 ### 암호화 모듈
-:crypto.hash, :crypto.mac, 
+
+:crypto.hash, :crypto.mac,

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"createdAt":"2024.04.01 월 오후 18:10","modifiedAt":"2024.11.15 금 오후 18:36","tags":["elixir","zed","pkgx","erlang","lexical-lsp","next-ls"],"permalink":"/Dev/elixir/elixir install/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2024.04.01 월 오후 18:10","modifiedAt":"2025.01.10 금 오후 13:00","tags":["elixir","zed","pkgx","erlang","lexical-lsp","next-ls"],"permalink":"/Dev/elixir/elixir install/","dgPassFrontmatter":true}
 ---
 
 
@@ -11,12 +11,13 @@
 전부 mac 환경 기준입니다.
 
 ### 버전 관리 안할꺼면 그냥 brew로 설치
+
 ```
 brew install elixir elixir-ls next-ls erlang
 ```
 
+---
 
---- 
 ### asdf 통해 elixir 설치
 
 버전 대신에 latest를 하거나, 다른 버전 입력하거나 맘대로
@@ -44,7 +45,6 @@ asdf global elixir 1.17.2-otp-27
 export PATH="$PATH:$HOME/.asdf/shims"
 ```
 
-
 ---
 
 brew로 asdf 업데이트하고 난 후 아래 command 실행
@@ -53,7 +53,6 @@ brew로 asdf 업데이트하고 난 후 아래 command 실행
 asdf reshim
 
 ```
-
 
 #### asdf로 postgres 설치 (또는 업그레이드시)
 
@@ -79,9 +78,8 @@ asdf install postgres 17.1
 asdf global postgres 17.1
 ```
 
-
-
 ---
+
 ### pkgx 통해 elixir 설치
 
 ---  24.11.15 현재로선 아직은 asdf 사용하는게 나은 것 같다.
@@ -92,7 +90,8 @@ https://dev.to/jonlauridsen/perfect-elixir-environment-setup-1145
 vscode를 사용할꺼면 pkgx가 잘 작동한다.
 
 #### vscode
-elixir, erlang은 pkgx 설치한다. 
+
+elixir, erlang은 pkgx 설치한다.
 기존에 다른 방식으로 설치되어 있으면 제거
 
 ```shell
@@ -102,21 +101,20 @@ eval "$(pkgx integrate)"
 ```
 
 프로젝트 내에 pkgx.yml을 작성한다.
-pkgx.yml 
+pkgx.yml
 ```
 dependencies:
   erlang.org@26 elixir-lang.org@1.16
 ```
 
-그 후 
+그 후
 ```shell
 dev
 ```
 
-
 #### 주의할점
-pkgx기반으로 에디터가 작동하게 하려면 해당 프로젝트에서 에디터를 실행시켜라.
 
+pkgx기반으로 에디터가 작동하게 하려면 해당 프로젝트에서 에디터를 실행시켜라.
 
 +etc
 install.zsh
@@ -134,12 +132,10 @@ echo "Setup complete."
 
 작성 후 zsh install.zsh
 
-
-
-
-
 ***
+
 ### LSP 설치
+
 https://github.com/lexical-lsp/lexical
 
 vscode 사용시 lexical lsp 사용가능
@@ -161,10 +157,10 @@ https://github.com/zed-industries/zed/pull/10948
 }
 ```
 
---- 
+---
+
 ### postgresql install
+
 ```
 brew install postgresql@16
 ```
-
-

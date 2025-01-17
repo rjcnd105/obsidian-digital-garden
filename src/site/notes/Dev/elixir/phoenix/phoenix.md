@@ -4,5 +4,6 @@
 
 
 - [[Dev/elixir/phoenix/1. Setup\|1. Setup]]
+- [[Dev/elixir/phoenix/2. Basic\|2. Basic]]
 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"createdAt":"2024.07.19 금 오후 15:58","modifiedAt":"2025.01.14 화 오후 12:11","tags":["shell","bash"],"permalink":"/Dev/shell/shell scripts/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2024.07.19 금 오후 15:58","modifiedAt":"2025.01.14 화 오후 12:41","tags":["shell","bash"],"permalink":"/Dev/shell/shell scripts/","dgPassFrontmatter":true}
 ---
 
 
@@ -50,6 +50,19 @@ fi
 if [ ! -d "lib" ]; then
 	echo "Creating lib directory..."
 	mkdir lib
+fi
+```
+
+#### 문자열이 비어있는지
+
+```bash
+if [ -z "$HOME" ]; then
+	echo "HOME variable is required"
+	exit 1
+fi
+
+if [! -z "$HOME" ]; then
+	echo $HOME
 fi
 ```
 
