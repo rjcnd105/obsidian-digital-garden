@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"7 Databases in 7 Weeks for 2025","source":"https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/","author":["[[Matt Blewitt]]"],"published":null,"created":"2024-12-06","description":"7 databases to explore in 2025.","tags":["clippings"],"createdAt":"2024.12.06 금 오후 12:58","modifiedAt":"2025.01.31 금 오후 14:20","permalink":"/Clippings/7 Databases in 7 Weeks for 2025/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"7 Databases in 7 Weeks for 2025","source":"https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/","author":["[[Matt Blewitt]]"],"published":null,"created":"2024-12-06","description":"7 databases to explore in 2025.","tags":["clippings"],"createdAt":"2024.12.06 금 오후 12:58","modifiedAt":"2025.01.31 금 오후 14:25","permalink":"/Clippings/7 Databases in 7 Weeks for 2025/","dgPassFrontmatter":true}
 ---
 
 
@@ -10,8 +10,8 @@ I’ve been running databases-as-a-service for a long time, and there are always
 
 ## Preamble 서문
 
-These aren’t the “7 Best Databases” or something similar to power a Buzzfeed listicle - these are just 7 databases that I think are worth your time to really look into for a week or so. You might ask something like “why not Neo4j or MongoDB or MySQL/Vitess or <insert other db here>” - the answer is mostly that I don’t find them interesting. I’m also not covering Kafka or other similar streaming data services - definitely worth your time, but not covered.
-이 데이터베이스는 "7가지 최고의 데이터베이스" 또는 이와 유사한 제목의 버즈피드 리스팅을 위한 것이 아니라, 일주일 정도 시간을 들여 살펴볼 만한 가치가 있다고 생각되는 7가지 데이터베이스를 소개한 것일 뿐입니다. "왜 Neo4j나 MongoDB, MySQL/Vitess, <인서트 다른 데이터베이스는 안 되나요>"와 같은 질문을 하실 수도 있지만, 대부분 흥미롭지 않다는 대답이 돌아올 것입니다. 또한 Kafka나 기타 유사한 스트리밍 데이터 서비스도 다룰 가치가 있지만, 이 글에서는 다루지 않습니다.
+These aren’t the “7 Best Databases” or something similar to power a Buzzfeed listicle - these are just 7 databases that I think are worth your time to really look into for a week or so. You might ask something like “why not Neo4j or MongoDB or MySQL/Vitess or insert other db here” - the answer is mostly that I don’t find them interesting. I’m also not covering Kafka or other similar streaming data services - definitely worth your time, but not covered.
+이 데이터베이스는 "7가지 최고의 데이터베이스" 또는 이와 유사한 제목의 버즈피드 리스팅을 위한 것이 아니라, 일주일 정도 시간을 들여 살펴볼 만한 가치가 있다고 생각되는 7가지 데이터베이스를 소개한 것일 뿐입니다. "왜 Neo4j나 MongoDB, MySQL/Vitess, 인서트 다른 데이터베이스는 안 되나요"와 같은 질문을 하실 수도 있지만, 대부분 흥미롭지 않다는 대답이 돌아올 것입니다. 또한 Kafka나 기타 유사한 스트리밍 데이터 서비스도 다룰 가치가 있지만, 이 글에서는 다루지 않습니다.
 
 ## Table of Contents 목차
 
