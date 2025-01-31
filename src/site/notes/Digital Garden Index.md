@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-home":true,"createdAt":"2024.03.29 금 오후 17:19","modifiedAt":"2024.11.21 목 오후 21:50","permalink":"/Digital Garden Index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"createdAt":"2024.03.29 금 오후 17:19","modifiedAt":"2025.01.31 금 오후 14:20","permalink":"/Digital Garden Index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
- 
 ## 최근 업데이트순 (modified date)
+
 - [[Dev/elixir/phoenix/2. Basic\|2. Basic]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/phoenix `-2025.01.21 PM 6:43 </span>
 - [[Dev/elixir/mix\|mix]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2025.01.17 PM 6:15 </span>
 - [[Dev/elixir/language/Elixir study\|Elixir study]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/language `-2025.01.17 PM 4:55 </span>
@@ -19,7 +19,6 @@
 - [[Dev/web/topic/프론트 기술 면접 준비\|프론트 기술 면접 준비]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web/topic `-2025.01.10 PM 12:11 </span>
 - [[Dev/nix/저장소\|저장소]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2025.01.10 AM 11:46 </span>
 - [[Dev/nix/file\|file]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2025.01.05 PM 6:08 </span>
-- [[Clippings/7 Databases in 7 Weeks for 2025\|7 Databases in 7 Weeks for 2025]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Clippings `-2024.12.08 PM 6:28 </span>
 - [[Dev/nix/basic\|basic]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.21 PM 11:32 </span>
 - [[Dev/nix/language\|language]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.21 PM 3:22 </span>
 - [[Dev/nix/concept learning\|concept learning]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.20 PM 5:30 </span>
@@ -55,10 +54,10 @@
 { .block-language-dataview}
 
 ## 최신 생성 글 (created date)
+
 - [[Dev/elixir/phoenix/2. Basic\|2. Basic]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/phoenix ` 2025.01.15 PM 2:56 </span>
 - [[Dev/nix/file\|file]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix ` 2024.12.27 PM 3:43 </span>
 - [[Editor/zed env\|zed env]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Editor ` 2024.12.18 PM 6:00 </span>
-- [[Clippings/7 Databases in 7 Weeks for 2025\|7 Databases in 7 Weeks for 2025]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Clippings ` 2024.12.06 PM 12:58 </span>
 - [[Dev/nix/저장소\|저장소]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix ` 2024.11.28 PM 1:06 </span>
 - [[Dev/nix/concept learning\|concept learning]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix ` 2024.11.19 PM 2:33 </span>
 - [[Dev/nix/language\|language]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix ` 2024.11.16 PM 3:07 </span>
