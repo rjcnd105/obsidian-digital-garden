@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"createdAt":"2024.04.01 월 오후 18:10","modifiedAt":"2025.01.10 금 오후 13:00","tags":["elixir","zed","pkgx","erlang","lexical-lsp","next-ls"],"permalink":"/Dev/elixir/elixir install/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2024.04.01 월 오후 18:10","modifiedAt":"2025.02.10 월 오후 16:28","tags":["elixir","zed","pkgx","erlang","lexical-lsp","next-ls"],"permalink":"/Dev/elixir/elixir install/","dgPassFrontmatter":true}
 ---
 
 
 언어는 좋은데 좀.. 환경 설정이 그지같다...
 
 이것저것 다 해봤는데.. 다 문제가 조금씩 있어서 다음에는 [nix flake&direnv](https://elixirforum.com/t/flake-nix-phoenix-postgresql/52622/5)로 해봐야겠음.
-혹은 [devbox](https://www.jetpack.io/devbox/docs/devbox_examples/languages/elixir/),
+-> 2025.2.10. https://github.com/rjcnd105/hj-dotfiles/tree/main/templates/phoenix 내 flake 기반 phoenix template 설정이다.
 
 전부 mac 환경 기준입니다.
 
