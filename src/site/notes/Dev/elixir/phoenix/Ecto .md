@@ -87,8 +87,6 @@ end
 
 # 4. mix ecto.migrate
 ```
-2. 제약 사항 추가
-3. `mix ecto.migrate
 
 ### timestamp() 매크로로 넣은 날짜 형식 변경
 
