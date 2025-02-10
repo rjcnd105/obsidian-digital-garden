@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"dg-home":true,"createdAt":"2024.03.29 금 오후 17:19","modifiedAt":"2025.02.09 일 오전 11:27","permalink":"/Digital Garden Index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"createdAt":"2024.03.29 금 오전 0:00","modifiedAt":"2025.02.09 일 오후 14:43","permalink":"/Digital Garden Index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
 ## 최근 업데이트순 (modified date)
 
-- [[Dev/elixir/phoenix/Ecto \|Ecto ]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/phoenix `-2025.02.09 AM 11:27 </span>
-- [[Dev/elixir/phoenix/2. Basic\|2. Basic]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/phoenix `-2025.02.07 PM 6:10 </span>
-- [[Dev/elixir/mix\|mix]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2025.01.17 PM 6:15 </span>
+- [[Dev/elixir/phoenix/Ecto \|Ecto ]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/phoenix `-2025.02.10 PM 2:07 </span>
+- [[Dev/elixir/phoenix/2. Basic\|2. Basic]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/phoenix `-2025.02.09 PM 6:53 </span>
+- [[Dev/elixir/mix\|mix]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2025.02.09 PM 6:29 </span>
 - [[Dev/elixir/language/Elixir study\|Elixir study]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/language `-2025.01.17 PM 4:55 </span>
 - [[Dev/shell/shell scripts\|shell scripts]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/shell `-2025.01.14 PM 12:41 </span>
 - [[Dev/elixir/elixir install\|elixir install]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2025.01.10 PM 1:00 </span>

@@ -3,15 +3,15 @@
 ---
 
 
-- [[Dev/elixir/language/Elixir study\|Elixir study]]
-- [[Dev/elixir/language/erlang 데이터 구조\|erlang 데이터 구조]]
-- [[Dev/elixir/language/deep dive into module\|deep dive into module]]
+- [[Dev/elixir/elixir install\|elixir install]]
 - [[Dev/elixir/elixir tips, patterns\|elixir tips, patterns]]
+- [[Dev/elixir/phoenix/1. Setup\|1. Setup]]
 - [[Dev/elixir/phoenix/2. Basic\|2. Basic]]
 - [[Dev/elixir/phoenix/phoenix\|phoenix]]
-- [[Dev/elixir/phoenix/1. Setup\|1. Setup]]
 - [[Dev/elixir/phoenix/Ecto \|Ecto ]]
+- [[Dev/elixir/language/deep dive into module\|deep dive into module]]
+- [[Dev/elixir/language/Elixir study\|Elixir study]]
+- [[Dev/elixir/language/erlang 데이터 구조\|erlang 데이터 구조]]
 - [[Dev/elixir/mix\|mix]]
-- [[Dev/elixir/elixir install\|elixir install]]
 
 { .block-language-dataview}
