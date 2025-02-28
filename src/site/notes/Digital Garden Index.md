@@ -5,6 +5,9 @@
 
 ## 최근 업데이트순 (modified date)
 
+- [[Philosophia/my/AboutMe\|AboutMe]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.02.28 PM 12:10 </span>
+- [[Dev/web/useage_pattern/css\|css]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web/useage_pattern `-2025.02.25 AM 8:41 </span>
+- [[Philosophia/my/글귀\|글귀]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.02.18 PM 5:50 </span>
 - [[Dev/elixir/elixir install\|elixir install]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2025.02.10 PM 4:28 </span>
 - [[Dev/elixir/phoenix/Ecto \|Ecto ]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/phoenix `-2025.02.10 PM 4:20 </span>
 - [[Dev/elixir/phoenix/2. Basic\|2. Basic]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/phoenix `-2025.02.09 PM 6:53 </span>
@@ -28,11 +31,8 @@
 - [[Study_etc/추상대수학\|추상대수학]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc `-2024.11.04 PM 6:59 </span>
 - [[pockets\|pockets]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>` `-2024.10.22 PM 5:29 </span>
 - [[Dev/web/빡쳤던 노트\|빡쳤던 노트]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web `-2024.10.18 AM 11:46 </span>
-- [[Philosophia/my/글귀\|글귀]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2024.09.26 PM 2:56 </span>
-- [[Philosophia/my/AboutMe\|AboutMe]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2024.06.27 PM 12:19 </span>
 - [[Philosophia/Books/reading/게릴라 러닝\|게릴라 러닝]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Books/reading `-2024.05.21 PM 6:23 </span>
 - [[Philosophia/Books/complete/여사제 타프티\|여사제 타프티]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Books/complete `-2024.05.21 PM 3:53 </span>
-- [[Dev/web/useage_pattern/css\|css]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web/useage_pattern `-2024.05.21 PM 3:33 </span>
 - [[Philosophia/my/개발 경험과 지혜\|개발 경험과 지혜]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2024.04.29 PM 4:14 </span>
 - [[Dev/elixir/elixir\|elixir]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2024.04.29 PM 3:52 </span>
 - [[Dev/elixir/elixir tips, patterns\|elixir tips, patterns]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2024.04.19 PM 7:17 </span>
