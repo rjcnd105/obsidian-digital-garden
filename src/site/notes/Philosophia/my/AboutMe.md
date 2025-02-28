@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.02.28 금 오후 12:24","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.02.28 금 오후 12:25","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
 ---
 
 
 > 2025.2
 제 개인적인 흥미와 더불어 실용적인 개발을 지향하는 성향으로 인해 nix, elixir를 사용한 풀스택 개발자로 전향하고자 하는 강햔 의향이 있습니다.
 특히 ash framework의 디자인 철학에 깊게 공감하고 있습니다.
-현재 phoenix, ash framework를 학습하고 개인 프로젝트를 진행하고 있으며 해당 업으로는 경력과 조건들을 상당 부분 포기하더라도 가고자 하는 의지가 있으니 관심 있으신 분에게 연락이 오길 바라고 있습니다.
+현재 phoenix, ash framework를 학습하고 개인 프로젝트를 진행하고 있으며 해당 업으로는 경력과 조건들을 상당 부분 포기하더라도 가고자 하는 의지가 있으니 관심 있으신 분은 연락 바랍니다.
 
 **안녕하세요.** 저는 4년 차 프론트엔드 개발자로, 리엑트, 타입스크립트를 주로 사용하며 DDD, [Hexagonal 아키텍처](https://github.com/Sairyss/domain-driven-hexagon), 그리고 [Feature Sliced 패턴](https://feature-sliced.design/) 등에서 얻은 통찰력을 바탕으로 한 효율적인 개발에 대해서 관심이 많습니다.
 
