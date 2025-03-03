@@ -5,7 +5,7 @@
 
 ## 최근 업데이트순 (modified date)
 
-- [[임시/2025.03.03_23-47 정적 컴파일을 활용한 아이콘 렌더링\|2025.03.03_23-47 정적 컴파일을 활용한 아이콘 렌더링]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.04 AM 12:36 </span>
+- [[임시/2025.03.03_23-47 정적 컴파일을 활용한 아이콘 렌더링\|2025.03.03_23-47 정적 컴파일을 활용한 아이콘 렌더링]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.04 AM 12:38 </span>
 - [[pockets\|pockets]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>` `-2025.03.03 PM 11:46 </span>
 - [[Philosophia/my/AboutMe\|AboutMe]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.03.03 PM 11:44 </span>
 - [[Dev/web/useage_pattern/css\|css]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web/useage_pattern `-2025.02.25 AM 8:41 </span>
