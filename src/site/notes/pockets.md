@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["참조","아티클","개발"],"createdAt":"2024.02.04 일 오후 17:35","modifiedAt":"2024.04.29 월 오후 16:01","permalink":"/pockets/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["참조","아티클","개발"],"createdAt":"2024.02.04 일 오후 17:35","modifiedAt":"2025.03.03 월 오후 23:46","permalink":"/pockets/","dgPassFrontmatter":true}
 ---
 
 
@@ -266,29 +266,22 @@ We’re Indie Courses, the video course platform for indie creators. We help you
 
 ```
 
-
 24-03-27 22:03
 [웹 구성 요소의 HTML 변경 사항에 응답 --- Responding to HTML Changes in a Web Component](https://www.raymondcamden.com/2024/03/13/responding-to-html-changes-in-a-web-component)
 
 While driving my kids to school this morning, I had an interesting thought. Is it possible for a web component to recognize, and respond, when its inner DOM contents have changed? Turns out of course it is, and the answer isn't really depenedant on web components, but is a baked-in part of the web platform, the MutationObserver. Here's what I built as a way to test it out.오늘 아침 아이들을 학교에 데려다 주면서 흥미로운 생각이 들었습니다. 내부 DOM 콘텐츠가 변경되면 웹 구성 요소가 이를 인식하고 응답할 수 있습니까? 물론 그렇습니다. 대답은 웹 구성 요소에 따라 달라지는 것이 아니라 웹 플랫폼에 내장된 MutationObserver의 일부입니다. 이를 테스트하기 위한 방법으로 제가 만든 것은 다음과 같습니다.
 
-
-
 24-03-10 23:03
 [JavaScript를 사용한 클라이언트측 양식 처리 – 예제 코드로 설명 --- Client-Side Form Handling with JavaScript – Explained with Example Code](https://www.freecodecamp.org/news/form-validation-in-javascript/?ref=dailydev)
 Samyak Jain
-                    
+
                   삼약자인
 HTML forms are essential components of most websites and web apps. They enable interaction between users and those websites, and are a key concept for web developers to understand. HTML 양식은 대부분의 웹사이트와 웹 앱의 필수 구성 요소입니다. 이는 사용자와 해당 웹 사이트 간의 상호 작용을 가능하게 하며 웹 개발자가 이해해야 하는 핵심 개념입니다.
-
-
 
 24-03-10 23:03
 [CSS의 픽셀과 (r)em을 넘어서 - 컨테이너 쿼리 길이 단위 - iO tech_hub --- Going beyond pixels and (r)ems in CSS - Container query length units - iO tech_hub](https://techhub.iodigital.com/articles/going-beyond-pixels-and-rems-in-css/container-query-length-units?ref=dailydev)
 
 As part of the containment spec, container queries are something to be reckoned with and in my personal opinion, they still aren’t used enough, but that’s a whole other discussion. What we’ll be covering today are the units that came with this awesome spec and once again, this article will be based on the list at MDN. First, we’ll get through the basics with a listing of the units, followed up with some more advanced usage.격리 사양의 일부로서 컨테이너 쿼리는 고려해야 할 사항이며 내 개인적인 의견으로는 여전히 충분히 사용되지 않지만 이는 완전히 다른 논의입니다. 오늘 우리가 다룰 내용은 이 멋진 사양과 함께 제공되는 장치이며 다시 한번 이 기사는 MDN의 목록을 기반으로 합니다. 먼저, 단위 목록을 통해 기본 사항을 살펴보고, 이어서 좀 더 고급 사용법을 살펴보겠습니다.
-
-
 
 24-03-09 19:03
 [CSS - Implementing Responsive Masonry Layouts](https://blog.openreplay.com/css--implementing-responsive-masonry-layouts/?ref=dailydev)
@@ -297,72 +290,46 @@ Rufina Uche
         · 6 min read
 Masonry layout is a design approach that arranges elements in a staggered manner. It positions each element based on the available space, like a mason laying bricks. The result? An asymmetrical grid that breaks free from the rigid constraints of traditional layouts. This fluid arrangement resonates particularly well with modern web design aesthetics, and this article will show you how to achieve these results.
 
-
-
 24-03-07 20:03
 [3 Advanced Framer Motion Effects in React - DEV Community](https://dev.to/salehmubashar/3-advanced-famer-motion-effects-in-react-3nm7?ref=dailydev)
 
 Animations are a powerful tool to enhance user experience, and when it comes to creating animations in React, Framer Motion is a popular library of choice.
 Previously, we looked at 5 simple animations that you can add to your site. In this post, we will have a look at 3 complex animations or effects that can be created using Framer Motion in React that will take your website to the next level.
 
-
-
 24-03-07 2:03
 [React 서버 구성요소가 내일의 승리를 위해 빌드를 깨는 이유 --- Why React Server Components Are Breaking Builds to Win Tomorrow](https://www.builder.io/blog/why-react-server-components)
 
 Over the past decade, React and its ecosystem has undergone continuous evolution. Each version has introduced new concepts, optimizations, and sometimes paradigm shifts, pushing the boundaries of what we thought was possible in web development.지난 10년 동안 React와 그 생태계는 지속적인 발전을 거듭해왔습니다. 각 버전은 새로운 개념, 최적화, 때로는 패러다임 전환을 도입하여 웹 개발에서 가능하다고 생각했던 것의 경계를 넓혔습니다.React Server Components (RSC) is the latest and perhaps the most significant change since React hooks. However, this change has met with mixed reactions within the community.RSC(React Server Components)는 React Hooks 이후 가장 최근의 변화이자 아마도 가장 중요한 변화일 것입니다. 그러나 이러한 변화는 커뮤니티 내에서 엇갈린 반응을 불러일으켰습니다.For me, this line by Linkin Park captures the sentiment surrounding React’s evolution as we step into 2024:나에게 있어 Linkin Park의 이 대사는 2024년을 맞이하는 React의 진화를 둘러싼 정서를 포착합니다.
-
-
 
 24-03-07 2:03
 ["react-strict-dom", 왜 그렇게 좋은가요? | 시몬 리브차크 --- "react-strict-dom", why it's so great? | Szymon Rybczak](https://szymonrybczak.dev/blog/react-strict-dom)
 
 February 26, 2024 (9 days ago)2024년 2월 26일 (9일 전)
 
-
-
-
 24-02-25 14:02
 [(2) 2024년 엘릭서 배우기 : 엘릭서 --- (2) Learn Elixir in 2024 : elixir](https://www.reddit.com/r/elixir/comments/1ac7uyn/learn_elixir_in_2024/)
 
 Hello All, 모두들 안녕,
 
-
-
 24-02-24 17:02
 [(번역) DDD, Hexagonal, Onion, Clean, CQRS, … 이 모든 것을 어떻게 함께 사용할까요? | by Jung Han | Feb, 2024 | Medium](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-ddd-hexagonal-onion-clean-cqrs-%EC%9D%B4-%EB%AA%A8%EB%93%A0-%EA%B2%83%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%A8%EA%BB%98-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C%EC%9A%94-7453ead460d4)
 Written by Jung Han 정한 작가가 쓴
 
-
-
-
 24-02-23 15:02
 [반응성/데이터 클라이언트: 관리 없이 비동기 상태 관리 --- reactive/data-client: Async State Management without the Management](https://github.com/reactive/data-client)
 
-
-
-
-
 24-02-22 15:02
 [프런트엔드 포커스 이슈 631: 2024년 2월 21일 --- Frontend Focus Issue 631: February 21, 2024](https://frontendfoc.us/issues/631?ref=dailydev)
-
-
-
-
 
 24-02-21 11:02
 [2024년 리액트 트렌드 --- React Trends in 2024](https://www.robinwieruch.de/react-trends/?ref=dailydev)
 
 The year 2024 got me excited about React's ecosystem again. Despite the various challenges and dramas (the biggest one of them moving React to the server with React Server Components) we had last year, there are emerging React trends that everyone should have on their watchlist. Here is my list of exciting React trends for 2024.2024년에는 React의 생태계에 대해 다시 한번 흥미를 갖게 되었습니다. 작년에 겪었던 다양한 도전과 드라마(React 서버 구성 요소를 사용하여 React를 서버로 옮기는 것 중 가장 큰 것)에도 불구하고 모든 사람이 관심 목록에 두어야 할 새로운 React 트렌드가 있습니다. 2024년의 흥미로운 React 트렌드 목록은 다음과 같습니다.
 
-
-
 24-02-16 20:02
 [Introducing Tempo • A new date library for JavaScript (and TypeScript). - DEV Community](https://dev.to/justinschroeder/introducing-tempo-a-new-date-library-for-javascript-and-typescript-359a)
 
 TLDR; Checkout the Tempo docs.
-
-
 
 24-02-16 20:02
 [새로운 핵심 웹 필수 요소인 Next Paint의 상호 작용 살펴보기 - DEV 커뮤니티 --- Exploring Interaction to Next Paint, a new Core Web Vital - DEV Community](https://dev.to/logrocket/exploring-interaction-to-next-paint-a-new-core-web-vital-5efh)
@@ -370,35 +337,24 @@ TLDR; Checkout the Tempo docs.
 Written by Rahul Chhodde 작성자: 라훌 초데
 ✏️
 
-
-
 24-02-16 20:02
 [출시 Nx 주간 요약!! - 개발자 커뮤니티 --- Launch Nx Week Recap!! - DEV Community](https://dev.to/nx/launch-nx-week-recap-51og)
 
 We just finished wrapping up Launch Nx Week, which ran from February 5-9, including a full conference on Thursday!목요일 전체 컨퍼런스를 포함하여 2월 5일부터 9일까지 진행된 Launch Nx Week가 막 마무리되었습니다!
 
-
-
 24-02-16 20:02
 [서비스 워커를 사용하는 프론트엔드 개발자를 위한 캐싱 전략 | 작성자: 맥스 타트 샤두스트 | Feb, 2024 | Medium --- Caching strategies for Front-End developers using a service worker | by Max Tat Shahdoost | Feb, 2024 | Medium](https://maxtsh.medium.com/caching-strategies-for-front-end-developers-using-a-service-worker-6264d249f080)
 Written by Max Tat Shahdoost작성자 맥스 타트 샤두스트
-
-
-
 
 24-02-16 18:02
 [일반 컴포넌트와 함께 forwardRef를 사용하는 방법 | 토탈 타입스크립트 --- How To Use forwardRef With Generic Components | Total TypeScript](https://www.totaltypescript.com/forwardref-with-generic-components)
 
 The way React's forwardRef is implemented in TypeScript has some annoying limitations. The biggest is that it disables inference on generic components.React의 forwardRef 가 타입스크립트로 구현되는 방식에는 몇 가지 성가신 한계가 있습니다. 가장 큰 한계는 일반 컴포넌트에 대한 추론을 비활성화한다는 점입니다.
 
-
-
 24-02-13 13:02
 [상위 유형... 그리고 다른 것들 - 이슈 #55280 - 마이크로 소프트/타입스크립트 --- Higher-kinded Types... And other stuff · Issue #55280 · microsoft/TypeScript](https://github.com/microsoft/TypeScript/issues/55280)
 GregRos
 HKTs have been a much-discussed and desired feature for most of the language’s existence, with many usecases proposed over the years, but so far there have been no concrete proposals I'm aware of.HKT는 언어가 존재하는 대부분의 기간 동안 많은 논의가 있었고 많은 사용 사례가 제안되어 왔지만 아직까지 제가 아는 한 구체적인 제안은 없었습니다.
-
-
 
 24-02-13 13:02
 [Why Wing | Wing](https://www.winglang.io/docs/concepts/why-wing)
@@ -408,84 +364,56 @@ developers to build distributed systems that fully leverage the power of the
 cloud without having to worry about the underlying infrastructure.
 It's best explained through an example:
 
-
-
 24-02-13 10:02
 [더 나은 웹 경험 구축하기: 동적 가져오기 및 코드 분할 구현하기 | 작성자: Juntao Qiu | ITNEXT --- Building Better Web Experiences: Implementing Dynamic Import and Code Splitting | by Juntao Qiu | ITNEXT](https://itnext.io/building-better-web-experiences-implementing-dynamic-import-and-code-splitting-240e0bd34ce5)
 Written by Juntao Qiu 작성자: 준타오 치우
-
-
-
 
 24-02-13 10:02
 [프론트엔드 엔지니어로서: 자바스크립트에서 알아야 할 '이벤트 이미터'의 마법 | by fatfish | Stackademic --- As a Front-End Engineer: The Magic Behind “Event Emitter” in JavaScript That You Should Know About | by fatfish | Stackademic](https://blog.stackademic.com/as-a-front-end-engineer-the-magic-behind-event-emitter-in-javascript-that-you-should-know-about-a3130b3bff08)
 Written by fatfish 작성자 fatfish
 As a Front-End Engineer: The Magic Behind “Event Emitter” in JavaScript That You Should Know About프론트엔드 엔지니어로서: 자바스크립트에서 '이벤트 이미터'의 마법: 알아야 할 모든 것
 
-
-
 24-02-10 2:02
 [처음 게시한 도커 이미지의 크기를 40% 줄인 방법 - 셸 스크립트 도커라이징에 대한 교훈 --- How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/?ref=dailydev)
 
 📅️ Published: February  3, 2024  • 🕣
-    
-	
-	
+
 		17 min read
 	
 📅️ 게시됨: 2024년 2월 3일 - 🕣 17분 읽기
-
-
 
 24-02-10 0:02
 [이벤트 폭풍 - 혼란을 정리하는 폭풍! | 사마르 베나마르 | 미디엄 --- Event Storming — The Storm That Cleans Up The Mess! | by Samar Benamar | Medium](https://medium.com/@samar.benamar/event-storming-the-storm-that-cleans-up-the-mess-b2bb578db7c)
 Written by Samar Benamar 작성자 사마르 베나마르
 
-
-
-
 24-02-10 0:02
 [비명을 지르는 디자인을 향한 DDD 방법 - 1부: 전략적 패턴 | 사마르 베나마르 저 | 2024년 2월 | Code Like A Girl --- The DDD Way Towards Screaming Design — Part I: Strategic Patterns | by Samar Benamar | Feb, 2024 | Code Like A Girl](https://code.likeagirl.io/the-ddd-way-towards-screaming-design-part-i-strategic-patterns-1079963d996b)
 Written by Samar Benamar 작성자 사마르 베나마르
-
-
-
 
 24-02-08 13:02
 [CSR 환경에서 Suspense로 발생한 문제 해결하고 성능 개선하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/react-router-dom-csr-prefetch/#usequeries%EA%B0%80-%EC%95%84%EB%8B%8C-loader%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0)
 
 이 글에서 사용되는 라이브러리의 최소 버전은 아래와 같습니다.
 
-
-
 24-02-08 11:02
 [is - HTML: 하이퍼텍스트 마크업 언어 | MDN --- is - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/is)
 
 The is global attribute allows you to specify that a standard HTML element should behave like a defined custom built-in element (see Using custom elements for more details). is 전역 속성을 사용하면 표준 HTML 요소가 정의된 맞춤 내장 요소처럼 동작하도록 지정할 수 있습니다(자세한 내용은 맞춤 요소 사용 참조).
-
-
 
 24-02-08 11:02
 [slot - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/slot)
 
 The slot global attribute assigns a slot in a shadow DOM shadow tree to an element: An element with a slot attribute is assigned to the slot created by the `<slot>` element whose name attribute's value matches that slot attribute's value.
 
-
-
 24-02-08 11:02
 [part - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part)
 
 The part global attribute contains a space-separated list of the part names of the element. Part names allows CSS to select and style specific elements in a shadow tree via the ::part pseudo-element.
 
-
-
 24-02-07 22:02
 [CSS에서 변수 이름 지정 --- Naming Variables In CSS](https://jwdallas.com/posts/namingcssvariables/?utm_campaign=tailwind-weekly-145&utm_source=Tailwind+Weekly?utm_campaign=Tailwind+Weekly+Web+Issue&utm_source=Tailwind+Weekly+Website)
 
 “Naming things is hard” goes the software engineering axiom and CSS is no exception. Here are some collected thoughts related to naming CSS Custom Properties. I’m going to use use the terms “variable” and “custom property” interchangeably since they are effectively the same thing for the purposes of what to call them."이름을 지정하는 것은 어렵다"는 소프트웨어 엔지니어링 원칙이 적용되며 CSS도 예외는 아닙니다. 다음은 CSS 사용자 정의 속성 이름 지정과 관련하여 수집된 몇 가지 생각입니다. 나는 "변수"와 "사용자 정의 속성"이라는 용어를 서로 바꿔서 사용할 것입니다. 왜냐하면 이 두 용어는 호출 목적에 따라 사실상 동일한 것이기 때문입니다.
-
-
-
 
 24-02-04 18:02
 [A New Era for JavaScript: Pattern Matching Unveiled | by Lokesh Prajapati | Medium](https://medium.com/@lokesh-prajapati/a-new-era-for-javascript-pattern-matching-unveiled-8f00980210b1)

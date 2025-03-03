@@ -5,7 +5,9 @@
 
 ## 최근 업데이트순 (modified date)
 
-- [[Philosophia/my/AboutMe\|AboutMe]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.02.28 PM 12:25 </span>
+- [[임시/2025.03.03_23-47 정적 컴파일을 활용한 특이 장점(elixir)\|2025.03.03_23-47 정적 컴파일을 활용한 특이 장점(elixir)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.04 AM 12:36 </span>
+- [[pockets\|pockets]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>` `-2025.03.03 PM 11:46 </span>
+- [[Philosophia/my/AboutMe\|AboutMe]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.03.03 PM 11:44 </span>
 - [[Dev/web/useage_pattern/css\|css]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web/useage_pattern `-2025.02.25 AM 8:41 </span>
 - [[Philosophia/my/글귀\|글귀]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.02.18 PM 5:50 </span>
 - [[Dev/elixir/elixir install\|elixir install]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2025.02.10 PM 4:28 </span>
@@ -29,7 +31,6 @@
 - [[Dev/nix/packages\|packages]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.20 PM 5:30 </span>
 - [[Dev/haskell/get programming with haskell\|get programming with haskell]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/haskell `-2024.11.10 PM 8:06 </span>
 - [[Study_etc/추상대수학\|추상대수학]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc `-2024.11.04 PM 6:59 </span>
-- [[pockets\|pockets]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>` `-2024.10.22 PM 5:29 </span>
 - [[Dev/web/빡쳤던 노트\|빡쳤던 노트]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web `-2024.10.18 AM 11:46 </span>
 - [[Philosophia/Books/reading/게릴라 러닝\|게릴라 러닝]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Books/reading `-2024.05.21 PM 6:23 </span>
 - [[Philosophia/Books/complete/여사제 타프티\|여사제 타프티]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Books/complete `-2024.05.21 PM 3:53 </span>
@@ -56,6 +57,7 @@
 
 ## 최신 생성 글 (created date)
 
+- [[임시/2025.03.03_23-47 정적 컴파일을 활용한 특이 장점(elixir)\|2025.03.03_23-47 정적 컴파일을 활용한 특이 장점(elixir)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.03.03 PM 11:47 </span>
 - [[Dev/elixir/phoenix/Ecto \|Ecto ]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/phoenix ` 2025.02.09 AM 10:58 </span>
 - [[Dev/elixir/phoenix/2. Basic\|2. Basic]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/phoenix ` 2025.01.15 PM 2:56 </span>
 - [[Dev/nix/file\|file]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix ` 2024.12.27 PM 3:43 </span>

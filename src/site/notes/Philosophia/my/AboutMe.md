@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.02.28 금 오후 12:25","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.03.03 월 오후 23:44","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
 ---
 
 
