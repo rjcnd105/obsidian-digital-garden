@@ -5,8 +5,17 @@
 
 ## 최근 업데이트순 (modified date)
 
+- [[Philosophia/my/글귀\|글귀]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.03.06 AM 10:41 </span>
+- [[Philosophia/Contents/1초만에 우울감 날려버릴 수 있다\|1초만에 우울감 날려버릴 수 있다]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents `-2025.03.06 AM 10:40 </span>
+- [[Study_etc/영양제-스택\|영양제-스택]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc `-2025.03.06 AM 10:39 </span>
+- [[Study_etc/영양제/Agmatine Sulfate (아그만틴)\|Agmatine Sulfate (아그만틴)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 `-2025.03.06 AM 10:15 </span>
+- [[Study_etc/영양제/Bromantane (브로만탄)\|Bromantane (브로만탄)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 `-2025.03.06 AM 10:15 </span>
+- [[Dev/nix/file\|file]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2025.03.06 AM 10:13 </span>
+- [[Study_etc/영양제/Acetyl-L-carnitine (ALCAR, 아세틸-L-카르티닌)\|Acetyl-L-carnitine (ALCAR, 아세틸-L-카르티닌)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 `-2025.03.06 AM 10:13 </span>
+- [[Study_etc/영양제/Creatine (크레아틴)\|Creatine (크레아틴)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 `-2025.03.06 AM 10:11 </span>
+- [[Study_etc/영양제/Alpha Lipoic Acid (ALA, 알파리포산)\|Alpha Lipoic Acid (ALA, 알파리포산)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 `-2025.03.06 AM 10:10 </span>
+- [[Study_etc/영양제/Saffran\|Saffran]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 `-2025.03.06 AM 10:08 </span>
 - [[Philosophia/Contents/지식을 축적하고 창조적인 삶을 살기 (김정운 박사) \|지식을 축적하고 창조적인 삶을 살기 (김정운 박사) ]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents `-2025.03.05 PM 3:04 </span>
-- [[Philosophia/my/글귀\|글귀]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.03.04 AM 1:56 </span>
 - [[임시/2025.03.03_23-47 정적 컴파일을 활용한 아이콘 렌더링\|2025.03.03_23-47 정적 컴파일을 활용한 아이콘 렌더링]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.04 AM 12:39 </span>
 - [[pockets\|pockets]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>` `-2025.03.03 PM 11:46 </span>
 - [[Philosophia/my/AboutMe\|AboutMe]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.03.03 PM 11:44 </span>
@@ -25,7 +34,6 @@
 - [[Dev/web/topic/브라우저는 어떻게 작동하는가 시리즈\|브라우저는 어떻게 작동하는가 시리즈]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web/topic `-2025.01.10 PM 12:11 </span>
 - [[Dev/web/topic/프론트 기술 면접 준비\|프론트 기술 면접 준비]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web/topic `-2025.01.10 PM 12:11 </span>
 - [[Dev/nix/저장소\|저장소]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2025.01.10 AM 11:46 </span>
-- [[Dev/nix/file\|file]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2025.01.05 PM 6:08 </span>
 - [[Dev/nix/basic\|basic]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.21 PM 11:32 </span>
 - [[Dev/nix/language\|language]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.21 PM 3:22 </span>
 - [[Dev/nix/concept learning\|concept learning]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2024.11.20 PM 5:30 </span>
@@ -42,7 +50,6 @@
 - [[Dev/rust/Rust in Action and The Rust Programming Language\|Rust in Action and The Rust Programming Language]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/rust `-2024.04.03 PM 6:54 </span>
 - [[Philosophia/Contents/1년 넘게 하루에 12시간 공부한 방법\|1년 넘게 하루에 12시간 공부한 방법]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents `-2024.04.03 PM 6:46 </span>
 - [[Philosophia/Contents/어느 일란성 세쌍둥이의 재회\|어느 일란성 세쌍둥이의 재회]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents `-2024.04.03 PM 6:46 </span>
-- [[Philosophia/Contents/1초만에 우울감 날려버릴 수 있다 부정적인 감정을 컨트롤하면 좋은 비법\|1초만에 우울감 날려버릴 수 있다 부정적인 감정을 컨트롤하면 좋은 비법]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents `-2024.04.03 PM 6:46 </span>
 - [[Philosophia/Contents/의식 성장이란 진짜로 무엇인가\|의식 성장이란 진짜로 무엇인가]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents `-2024.04.03 PM 6:45 </span>
 - [[Philosophia/Books/complete/지루함의 심리학\|지루함의 심리학]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Books/complete `-2024.04.03 PM 6:45 </span>
 - [[Philosophia/my/짧글\|짧글]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2024.04.03 PM 6:40 </span>
@@ -58,6 +65,13 @@
 
 ## 최신 생성 글 (created date)
 
+- [[Study_etc/영양제-스택\|영양제-스택]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc ` 2025.03.06 AM 10:17 </span>
+- [[Study_etc/영양제/Acetyl-L-carnitine (ALCAR, 아세틸-L-카르티닌)\|Acetyl-L-carnitine (ALCAR, 아세틸-L-카르티닌)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 ` 2025.03.06 AM 10:12 </span>
+- [[Study_etc/영양제/Creatine (크레아틴)\|Creatine (크레아틴)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 ` 2025.03.06 AM 10:10 </span>
+- [[Study_etc/영양제/Alpha Lipoic Acid (ALA, 알파리포산)\|Alpha Lipoic Acid (ALA, 알파리포산)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 ` 2025.03.06 AM 10:09 </span>
+- [[Study_etc/영양제/Saffran\|Saffran]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 ` 2025.03.06 AM 10:08 </span>
+- [[Study_etc/영양제/Bromantane (브로만탄)\|Bromantane (브로만탄)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 ` 2025.03.06 AM 9:49 </span>
+- [[Study_etc/영양제/Agmatine Sulfate (아그만틴)\|Agmatine Sulfate (아그만틴)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 ` 2025.03.06 AM 9:43 </span>
 - [[Philosophia/Contents/지식을 축적하고 창조적인 삶을 살기 (김정운 박사) \|지식을 축적하고 창조적인 삶을 살기 (김정운 박사) ]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents ` 2025.03.05 PM 1:30 </span>
 - [[임시/2025.03.03_23-47 정적 컴파일을 활용한 아이콘 렌더링\|2025.03.03_23-47 정적 컴파일을 활용한 아이콘 렌더링]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.03.03 PM 11:47 </span>
 - [[Dev/elixir/phoenix/Ecto \|Ecto ]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/phoenix ` 2025.02.09 AM 10:58 </span>
@@ -95,7 +109,7 @@
 - [[Dev/web/topic/프론트 기술 면접 준비\|프론트 기술 면접 준비]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web/topic ` 2024.02.04 PM 7:25 </span>
 - [[Dev/web/topic/브라우저는 어떻게 작동하는가 시리즈\|브라우저는 어떻게 작동하는가 시리즈]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web/topic ` 2024.02.04 PM 7:17 </span>
 - [[Philosophia/Contents/1년 넘게 하루에 12시간 공부한 방법\|1년 넘게 하루에 12시간 공부한 방법]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents ` 2024.02.04 PM 6:50 </span>
-- [[Philosophia/Contents/1초만에 우울감 날려버릴 수 있다 부정적인 감정을 컨트롤하면 좋은 비법\|1초만에 우울감 날려버릴 수 있다 부정적인 감정을 컨트롤하면 좋은 비법]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents ` 2024.02.04 PM 6:49 </span>
+- [[Philosophia/Contents/1초만에 우울감 날려버릴 수 있다\|1초만에 우울감 날려버릴 수 있다]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents ` 2024.02.04 PM 6:49 </span>
 - [[Philosophia/Contents/의식 성장이란 진짜로 무엇인가\|의식 성장이란 진짜로 무엇인가]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents ` 2024.02.04 PM 6:48 </span>
 - [[Philosophia/Contents/어느 일란성 세쌍둥이의 재회\|어느 일란성 세쌍둥이의 재회]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents ` 2024.02.04 PM 6:48 </span>
 - [[Study_etc/수학 공식\|수학 공식]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc ` 2024.02.04 PM 6:46 </span>
