@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"dg-home":true,"createdAt":"2024.03.29 금 오전 0:00","modifiedAt":"2025.02.09 일 오후 14:43","permalink":"/Digital Garden Index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"createdAt":"2024.03.29 금 오전 0:00","modifiedAt":"2025.03.06 목 오후 12:33","permalink":"/Digital Garden Index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
+[[Philosophia/my/AboutMe\|AboutMe]]
+
 ## 최근 업데이트순 (modified date)
 
+- [[임시/2025.03.03_23-47 정적 컴파일을 활용한 아이콘 렌더링\|2025.03.03_23-47 정적 컴파일을 활용한 아이콘 렌더링]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.06 PM 12:33 </span>
 - [[Philosophia/my/글귀\|글귀]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.03.06 AM 10:41 </span>
 - [[Philosophia/Contents/1초만에 우울감 날려버릴 수 있다\|1초만에 우울감 날려버릴 수 있다]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents `-2025.03.06 AM 10:40 </span>
 - [[Study_etc/영양제-스택\|영양제-스택]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc `-2025.03.06 AM 10:39 </span>
@@ -16,7 +19,6 @@
 - [[Study_etc/영양제/Alpha Lipoic Acid (ALA, 알파리포산)\|Alpha Lipoic Acid (ALA, 알파리포산)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 `-2025.03.06 AM 10:10 </span>
 - [[Study_etc/영양제/Saffran\|Saffran]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 `-2025.03.06 AM 10:08 </span>
 - [[Philosophia/Contents/지식을 축적하고 창조적인 삶을 살기 (김정운 박사) \|지식을 축적하고 창조적인 삶을 살기 (김정운 박사) ]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents `-2025.03.05 PM 3:04 </span>
-- [[임시/2025.03.03_23-47 정적 컴파일을 활용한 아이콘 렌더링\|2025.03.03_23-47 정적 컴파일을 활용한 아이콘 렌더링]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.04 AM 12:39 </span>
 - [[pockets\|pockets]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>` `-2025.03.03 PM 11:46 </span>
 - [[Philosophia/my/AboutMe\|AboutMe]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.03.03 PM 11:44 </span>
 - [[Dev/web/useage_pattern/css\|css]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web/useage_pattern `-2025.02.25 AM 8:41 </span>
