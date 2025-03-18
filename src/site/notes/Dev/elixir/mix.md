@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"createdAt":"2024.04.03 수 오후 13:57","modifiedAt":"2025.02.09 일 오후 18:29","tags":["elixir","mix","hex","phoenix","ecto"],"permalink":"/Dev/elixir/mix/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2024.04.03 수 오후 13:57","modifiedAt":"2025.03.18 화 오후 17:36","tags":["elixir","mix","hex","phoenix","ecto"],"permalink":"/Dev/elixir/mix/","dgPassFrontmatter":true}
 ---
 
 
@@ -65,3 +65,14 @@ ex)
 ### [mix ecto.dump](https://hexdocs.pm/ecto_sql/Mix.Tasks.Ecto.Dump.html)
 
 ecto migration 기반의 확인 용도의 sql 파일 생성
+
+## Ash
+
+### mix ash.gen.resource
+
+리소스를 만들고 도메인 리소스에 추가한다
+
+ex)
+mix ash.gen.resource MyApp.Chat.Room --extend postgres
+
+ MyApp.Chat.Room 리소스를 생성 후 MyApp.Chat 도메인에 리소스를 연결한다.
