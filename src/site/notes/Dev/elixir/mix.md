@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"createdAt":"2024.04.03 수 오후 13:57","modifiedAt":"2025.03.18 화 오후 17:36","tags":["elixir","mix","hex","phoenix","ecto"],"permalink":"/Dev/elixir/mix/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2024.04.03 수 오후 13:57","modifiedAt":"2025.03.18 화 오후 18:02","tags":["elixir","mix","hex","phoenix","ecto","ash"],"permalink":"/Dev/elixir/mix/","dgPassFrontmatter":true}
 ---
 
 
@@ -76,3 +76,9 @@ ex)
 mix ash.gen.resource MyApp.Chat.Room --extend postgres
 
  MyApp.Chat.Room 리소스를 생성 후 MyApp.Chat 도메인에 리소스를 연결한다.
+
+### mix ash.codegen
+
+ecto migration 생성.
+
+그 후 mix setup(mix ash.migrate)을 적용된다.

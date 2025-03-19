@@ -7,10 +7,12 @@
 ''
 ## 최근 업데이트순 (modified date)
 
-- [[Dev/elixir/mix\|mix]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2025.03.18 PM 5:36 </span>
-- [[임시/2025.03.17_15-27 ash form에서의 임시 추가 에러\|2025.03.17_15-27 ash form에서의 임시 추가 에러]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.18 PM 5:33 </span>
+- [[임시/Ash Simple Debug with iex (ets사용)\|Ash Simple Debug with iex (ets사용)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.19 PM 5:11 </span>
+- [[임시/ash form에서의 임시 추가 에러\|ash form에서의 임시 추가 에러]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.19 PM 3:16 </span>
+- [[Dev/elixir/mix\|mix]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2025.03.18 PM 6:02 </span>
+- [[임시/정적 컴파일을 활용한 아이콘 렌더링\|정적 컴파일을 활용한 아이콘 렌더링]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.18 PM 5:39 </span>
+- [[Dev/elixir/Elixir study\|Elixir study]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2025.03.18 PM 5:38 </span>
 - [[Dev/web/useage_pattern/css\|css]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web/useage_pattern `-2025.03.17 PM 3:26 </span>
-- [[임시/2025.03.03_23-47 정적 컴파일을 활용한 아이콘 렌더링\|2025.03.03_23-47 정적 컴파일을 활용한 아이콘 렌더링]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.06 PM 12:33 </span>
 - [[Philosophia/my/글귀\|글귀]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.03.06 AM 10:41 </span>
 - [[Philosophia/Contents/1초만에 우울감 날려버릴 수 있다\|1초만에 우울감 날려버릴 수 있다]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents `-2025.03.06 AM 10:40 </span>
 - [[Study_etc/영양제-스택\|영양제-스택]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc `-2025.03.06 AM 10:39 </span>
@@ -27,12 +29,11 @@
 - [[Dev/elixir/elixir install\|elixir install]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2025.02.10 PM 4:28 </span>
 - [[Dev/elixir/phoenix/Ecto \|Ecto ]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/phoenix `-2025.02.10 PM 4:20 </span>
 - [[Dev/elixir/phoenix/2. Basic\|2. Basic]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/phoenix `-2025.02.09 PM 6:53 </span>
-- [[Dev/elixir/language/Elixir study\|Elixir study]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/language `-2025.01.17 PM 4:55 </span>
 - [[Dev/shell/shell scripts\|shell scripts]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/shell `-2025.01.14 PM 12:41 </span>
 - [[Editor/zed config\|zed config]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Editor `-2025.01.10 PM 1:00 </span>
-- [[Dev/elixir/language/deep dive into module\|deep dive into module]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/language `-2025.01.10 PM 12:56 </span>
+- [[Dev/elixir/deep dive into module\|deep dive into module]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2025.01.10 PM 12:56 </span>
 - [[Editor/zed env\|zed env]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Editor `-2025.01.10 PM 12:56 </span>
-- [[Dev/elixir/language/erlang 데이터 구조\|erlang 데이터 구조]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/language `-2025.01.10 PM 12:56 </span>
+- [[Dev/elixir/erlang 데이터 구조\|erlang 데이터 구조]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2025.01.10 PM 12:56 </span>
 - [[Dev/web/topic/스타일드 컴포넌트\|스타일드 컴포넌트]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web/topic `-2025.01.10 PM 12:11 </span>
 - [[Dev/web/topic/브라우저는 어떻게 작동하는가 시리즈\|브라우저는 어떻게 작동하는가 시리즈]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web/topic `-2025.01.10 PM 12:11 </span>
 - [[Dev/web/topic/프론트 기술 면접 준비\|프론트 기술 면접 준비]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web/topic `-2025.01.10 PM 12:11 </span>
@@ -68,7 +69,8 @@
 
 ## 최신 생성 글 (created date)
 
-- [[임시/2025.03.17_15-27 ash form에서의 임시 추가 에러\|2025.03.17_15-27 ash form에서의 임시 추가 에러]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.03.17 PM 3:27 </span>
+- [[임시/Ash Simple Debug with iex (ets사용)\|Ash Simple Debug with iex (ets사용)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.03.19 PM 5:01 </span>
+- [[임시/ash form에서의 임시 추가 에러\|ash form에서의 임시 추가 에러]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.03.17 PM 3:27 </span>
 - [[Study_etc/영양제-스택\|영양제-스택]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc ` 2025.03.06 AM 10:17 </span>
 - [[Study_etc/영양제/Acetyl-L-carnitine (ALCAR, 아세틸-L-카르티닌)\|Acetyl-L-carnitine (ALCAR, 아세틸-L-카르티닌)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 ` 2025.03.06 AM 10:12 </span>
 - [[Study_etc/영양제/Creatine (크레아틴)\|Creatine (크레아틴)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 ` 2025.03.06 AM 10:10 </span>
@@ -77,7 +79,7 @@
 - [[Study_etc/영양제/Bromantane (브로만탄)\|Bromantane (브로만탄)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 ` 2025.03.06 AM 9:49 </span>
 - [[Study_etc/영양제/Agmatine Sulfate (아그만틴)\|Agmatine Sulfate (아그만틴)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 ` 2025.03.06 AM 9:43 </span>
 - [[Philosophia/Contents/지식을 축적하고 창조적인 삶을 살기 (김정운 박사) \|지식을 축적하고 창조적인 삶을 살기 (김정운 박사) ]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents ` 2025.03.05 PM 1:30 </span>
-- [[임시/2025.03.03_23-47 정적 컴파일을 활용한 아이콘 렌더링\|2025.03.03_23-47 정적 컴파일을 활용한 아이콘 렌더링]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.03.03 PM 11:47 </span>
+- [[임시/정적 컴파일을 활용한 아이콘 렌더링\|정적 컴파일을 활용한 아이콘 렌더링]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.03.03 PM 11:47 </span>
 - [[Dev/elixir/phoenix/Ecto \|Ecto ]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/phoenix ` 2025.02.09 AM 10:58 </span>
 - [[Dev/elixir/phoenix/2. Basic\|2. Basic]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/phoenix ` 2025.01.15 PM 2:56 </span>
 - [[Dev/nix/file\|file]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix ` 2024.12.27 PM 3:43 </span>
@@ -86,9 +88,9 @@
 - [[Dev/nix/concept learning\|concept learning]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix ` 2024.11.19 PM 2:33 </span>
 - [[Dev/nix/language\|language]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix ` 2024.11.16 PM 3:07 </span>
 - [[Dev/nix/packages\|packages]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix ` 2024.11.14 PM 5:29 </span>
-- [[Dev/elixir/language/deep dive into module\|deep dive into module]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/language ` 2024.11.10 PM 8:02 </span>
-- [[Dev/elixir/language/erlang 데이터 구조\|erlang 데이터 구조]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/language ` 2024.11.08 PM 5:43 </span>
-- [[Dev/elixir/language/Elixir study\|Elixir study]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir/language ` 2024.11.08 PM 5:26 </span>
+- [[Dev/elixir/deep dive into module\|deep dive into module]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir ` 2024.11.10 PM 8:02 </span>
+- [[Dev/elixir/erlang 데이터 구조\|erlang 데이터 구조]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir ` 2024.11.08 PM 5:43 </span>
+- [[Dev/elixir/Elixir study\|Elixir study]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir ` 2024.11.08 PM 5:26 </span>
 - [[Dev/web/빡쳤던 노트\|빡쳤던 노트]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web ` 2024.10.18 AM 11:38 </span>
 - [[Editor/zed config\|zed config]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Editor ` 2024.10.07 PM 4:32 </span>
 - [[Dev/nix/basic\|basic]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix ` 2024.10.02 PM 6:58 </span>
