@@ -7,7 +7,7 @@
 ''
 ## 최근 업데이트순 (modified date)
 
-- [[임시/Ash Simple Debug with iex (ets사용)\|Ash Simple Debug with iex (ets사용)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.19 PM 5:11 </span>
+- [[임시/iex 에서 Ash Simple Debug  (ets사용)\|iex 에서 Ash Simple Debug  (ets사용)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.19 PM 5:12 </span>
 - [[임시/ash form에서의 임시 추가 에러\|ash form에서의 임시 추가 에러]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.19 PM 3:16 </span>
 - [[Dev/elixir/mix\|mix]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2025.03.18 PM 6:02 </span>
 - [[임시/정적 컴파일을 활용한 아이콘 렌더링\|정적 컴파일을 활용한 아이콘 렌더링]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.18 PM 5:39 </span>
@@ -69,7 +69,7 @@
 
 ## 최신 생성 글 (created date)
 
-- [[임시/Ash Simple Debug with iex (ets사용)\|Ash Simple Debug with iex (ets사용)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.03.19 PM 5:01 </span>
+- [[임시/iex 에서 Ash Simple Debug  (ets사용)\|iex 에서 Ash Simple Debug  (ets사용)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.03.19 PM 5:01 </span>
 - [[임시/ash form에서의 임시 추가 에러\|ash form에서의 임시 추가 에러]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.03.17 PM 3:27 </span>
 - [[Study_etc/영양제-스택\|영양제-스택]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc ` 2025.03.06 AM 10:17 </span>
 - [[Study_etc/영양제/Acetyl-L-carnitine (ALCAR, 아세틸-L-카르티닌)\|Acetyl-L-carnitine (ALCAR, 아세틸-L-카르티닌)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 ` 2025.03.06 AM 10:12 </span>
