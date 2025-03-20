@@ -7,13 +7,14 @@
 ''
 ## 최근 업데이트순 (modified date)
 
-- [[임시/iex 에서 Ash Simple Debug  (ets사용)\|iex 에서 Ash Simple Debug  (ets사용)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.19 PM 5:12 </span>
+- [[Philosophia/my/짧글\|짧글]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.03.20 PM 1:08 </span>
+- [[Philosophia/my/글귀\|글귀]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.03.20 PM 12:56 </span>
+- [[임시/iex 에서 Ash Simple Debug  (ets사용)\|iex 에서 Ash Simple Debug  (ets사용)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.19 PM 5:22 </span>
 - [[임시/ash form에서의 임시 추가 에러\|ash form에서의 임시 추가 에러]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.19 PM 3:16 </span>
 - [[Dev/elixir/mix\|mix]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2025.03.18 PM 6:02 </span>
 - [[임시/정적 컴파일을 활용한 아이콘 렌더링\|정적 컴파일을 활용한 아이콘 렌더링]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.18 PM 5:39 </span>
 - [[Dev/elixir/Elixir study\|Elixir study]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/elixir `-2025.03.18 PM 5:38 </span>
 - [[Dev/web/useage_pattern/css\|css]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/web/useage_pattern `-2025.03.17 PM 3:26 </span>
-- [[Philosophia/my/글귀\|글귀]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.03.06 AM 10:41 </span>
 - [[Philosophia/Contents/1초만에 우울감 날려버릴 수 있다\|1초만에 우울감 날려버릴 수 있다]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents `-2025.03.06 AM 10:40 </span>
 - [[Study_etc/영양제-스택\|영양제-스택]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc `-2025.03.06 AM 10:39 </span>
 - [[Study_etc/영양제/Agmatine Sulfate (아그만틴)\|Agmatine Sulfate (아그만틴)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 `-2025.03.06 AM 10:15 </span>
@@ -56,7 +57,6 @@
 - [[Philosophia/Contents/어느 일란성 세쌍둥이의 재회\|어느 일란성 세쌍둥이의 재회]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents `-2024.04.03 PM 6:46 </span>
 - [[Philosophia/Contents/의식 성장이란 진짜로 무엇인가\|의식 성장이란 진짜로 무엇인가]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents `-2024.04.03 PM 6:45 </span>
 - [[Philosophia/Books/complete/지루함의 심리학\|지루함의 심리학]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Books/complete `-2024.04.03 PM 6:45 </span>
-- [[Philosophia/my/짧글\|짧글]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2024.04.03 PM 6:40 </span>
 - [[Philosophia/Books/reading/프로그래머의 뇌\|프로그래머의 뇌]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Books/reading `-2024.04.03 PM 6:40 </span>
 - [[Philosophia/Philosophia\|Philosophia]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia `-2024.04.03 PM 6:39 </span>
 - [[Philosophia/my/write/꿈\|꿈]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my/write `-2024.04.03 PM 6:36 </span>
