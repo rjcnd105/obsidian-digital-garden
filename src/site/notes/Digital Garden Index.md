@@ -7,7 +7,8 @@
 ''
 ## 최근 업데이트순 (modified date)
 
-- [[Philosophia/my/짧글\|짧글]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.03.20 PM 1:08 </span>
+- [[Study_etc/영양제/Creatine (크레아틴)\|Creatine (크레아틴)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 `-2025.04.01 AM 8:57 </span>
+- [[Philosophia/my/짧글\|짧글]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.03.20 PM 1:22 </span>
 - [[Philosophia/my/글귀\|글귀]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.03.20 PM 12:56 </span>
 - [[임시/iex 에서 Ash Simple Debug  (ets사용)\|iex 에서 Ash Simple Debug  (ets사용)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.19 PM 5:22 </span>
 - [[임시/ash form에서의 임시 추가 에러\|ash form에서의 임시 추가 에러]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.03.19 PM 3:16 </span>
@@ -21,7 +22,6 @@
 - [[Study_etc/영양제/Bromantane (브로만탄)\|Bromantane (브로만탄)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 `-2025.03.06 AM 10:15 </span>
 - [[Dev/nix/file\|file]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Dev/nix `-2025.03.06 AM 10:13 </span>
 - [[Study_etc/영양제/Acetyl-L-carnitine (ALCAR, 아세틸-L-카르티닌)\|Acetyl-L-carnitine (ALCAR, 아세틸-L-카르티닌)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 `-2025.03.06 AM 10:13 </span>
-- [[Study_etc/영양제/Creatine (크레아틴)\|Creatine (크레아틴)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 `-2025.03.06 AM 10:11 </span>
 - [[Study_etc/영양제/Alpha Lipoic Acid (ALA, 알파리포산)\|Alpha Lipoic Acid (ALA, 알파리포산)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 `-2025.03.06 AM 10:10 </span>
 - [[Study_etc/영양제/Saffran\|Saffran]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 `-2025.03.06 AM 10:08 </span>
 - [[Philosophia/Contents/지식을 축적하고 창조적인 삶을 살기 (김정운 박사) \|지식을 축적하고 창조적인 삶을 살기 (김정운 박사) ]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/Contents `-2025.03.05 PM 3:04 </span>
