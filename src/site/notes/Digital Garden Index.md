@@ -7,7 +7,8 @@
 ''
 ## 최근 업데이트순 (modified date)
 
-- [[임시/Liveview에서 여러 phx- 잇는 방법.\|Liveview에서 여러 phx- 잇는 방법.]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.04.03 PM 4:17 </span>
+- [[임시/ash에서 read - update\|ash에서 read - update]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.04.03 PM 7:13 </span>
+- [[임시/Liveview에서 여러 phx- 잇는 방법.\|Liveview에서 여러 phx- 잇는 방법.]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.04.03 PM 7:05 </span>
 - [[임시/Ash Query filter\|Ash Query filter]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.04.01 PM 1:54 </span>
 - [[Study_etc/영양제/Creatine (크레아틴)\|Creatine (크레아틴)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Study_etc/영양제 `-2025.04.01 AM 8:57 </span>
 - [[Philosophia/my/짧글\|짧글]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`Philosophia/my `-2025.03.20 PM 1:22 </span>
@@ -71,6 +72,7 @@
 
 ## 최신 생성 글 (created date)
 
+- [[임시/ash에서 read - update\|ash에서 read - update]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.04.03 PM 7:04 </span>
 - [[임시/Liveview에서 여러 phx- 잇는 방법.\|Liveview에서 여러 phx- 잇는 방법.]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.04.03 PM 4:14 </span>
 - [[임시/Ash Query filter\|Ash Query filter]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.04.01 PM 1:50 </span>
 - [[임시/iex 에서 Ash Simple Debug  (ets사용)\|iex 에서 Ash Simple Debug  (ets사용)]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.03.19 PM 5:01 </span>
