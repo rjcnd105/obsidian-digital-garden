@@ -7,6 +7,7 @@
 ''
 ## 최근 업데이트순 (modified date)
 
+- [[임시/liveview 서버에서 liveview JS 사용하기\|liveview 서버에서 liveview JS 사용하기]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.04.04 PM 5:50 </span>
 - [[임시/handle_async simple exemple\|handle_async simple exemple]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.04.04 PM 5:43 </span>
 - [[임시/ash form에서의 임시 추가 에러\|ash form에서의 임시 추가 에러]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.04.03 PM 7:16 </span>
 - [[임시/ash에서 read - update\|ash에서 read - update]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 `-2025.04.03 PM 7:13 </span>
@@ -73,6 +74,7 @@
 
 ## 최신 생성 글 (created date)
 
+- [[임시/liveview 서버에서 liveview JS 사용하기\|liveview 서버에서 liveview JS 사용하기]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.04.04 PM 5:44 </span>
 - [[임시/handle_async simple exemple\|handle_async simple exemple]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.04.04 PM 5:40 </span>
 - [[임시/ash에서 read - update\|ash에서 read - update]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.04.03 PM 7:04 </span>
 - [[임시/Liveview에서 여러 phx- 잇는 방법.\|Liveview에서 여러 phx- 잇는 방법.]]<span style='font-size:0.65em; margin-left: 0.5rem;opacity:0.8;vertical-align: bottom;'>`임시 ` 2025.04.03 PM 4:14 </span>
