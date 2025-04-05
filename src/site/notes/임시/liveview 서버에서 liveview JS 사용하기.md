@@ -57,4 +57,4 @@ window.addEventListener("phx:js-exec", ({ detail }: any) => {
 ```
 
 이제 js-exec로 모든 liveview JS를 실행 가능하다.
-
+\
