@@ -40,7 +40,7 @@ body {
   //   color: black;
   //  }
 
-  a.tag + a.tag {
+  .tag + .tag {
     margin-left: 4px;
   }
 
@@ -48,6 +48,9 @@ body {
     .tag {
       all: inherit;
       cursor: pointer;
+    }
+    :first-of-type(.tag) {
+      margin-left: 0;
     }
   }
   .language-dataview {
