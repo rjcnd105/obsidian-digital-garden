@@ -69,6 +69,10 @@ body {
     }
   }
 
+  .markdown-rendered hr {
+    opacity: 0.8;
+  }
+
   code[class*="language-"],
   pre[class*="language-"] {
     text-shadow: none;
