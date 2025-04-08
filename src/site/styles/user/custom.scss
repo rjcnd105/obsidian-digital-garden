@@ -1,5 +1,5 @@
 html {
-  font-size: 15px !important;
+  font-size: 16px;
 }
 body {
   --h1-size: 2rem;
@@ -57,6 +57,8 @@ body {
 
   /* Folders */
   nav.filetree-sidebar {
+    font-size: 0.875rem;
+
     .foldername-wrapper svg {
       width: 1.2rem;
       height: 1.2rem;
