@@ -26,7 +26,7 @@ body {
   --icon-xs: 0.6rem;
   --icon-s: 0.875rem;
   --icon-m: 1rem;
-  --icon-l: 1rem;
+  --icon-l: 1.25rem;
 
   /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
@@ -86,8 +86,20 @@ body {
     }
   }
 
+  nav.navbar {
+    svg {
+      width: var(--icon-l);
+      height: var(--icon-l);
+    }
+  }
+
   /* Folders */
   nav.filetree-sidebar {
     font-size: 0.875rem;
+
+    svg {
+      width: var(--icon-m);
+      height: var(--icon-m);
+    }
   }
 }
