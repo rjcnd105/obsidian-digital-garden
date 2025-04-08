@@ -50,6 +50,11 @@ body {
     font-size: var(--font-md);
   }
 
+  code[class*="language-"],
+  pre[class*="language-"] {
+    text-shadow: none;
+  }
+
   /* Folders */
   nav.filetree-sidebar {
     .foldername-wrapper svg {
