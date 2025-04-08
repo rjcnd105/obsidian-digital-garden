@@ -1,6 +1,7 @@
 html {
   font-size: 16px;
 }
+
 body {
   --h1-size: 2rem;
   --h2-size: 1.6rem;
@@ -19,6 +20,13 @@ body {
   --font-ui-small: 0.75rem;
   --font-ui-medium: 0.933rem;
   --font-ui-large: 1.2rem;
+
+  --icon-size: var(--icon-m);
+  --icon-stroke: var(--icon-m-stroke-width);
+  --icon-xs: 0.6rem;
+  --icon-s: 0.875rem;
+  --icon-m: 1rem;
+  --icon-l: 1rem;
 
   /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
@@ -58,10 +66,5 @@ body {
   /* Folders */
   nav.filetree-sidebar {
     font-size: 0.875rem;
-
-    .foldername-wrapper svg {
-      width: 1.2rem;
-      height: 1.2rem;
-    }
   }
 }
