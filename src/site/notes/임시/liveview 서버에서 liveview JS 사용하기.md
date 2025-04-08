@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"createdAt":"2025.04.04 금 오후 17:44","modifiedAt":"2025.04.04 금 오후 17:50","tags":["liveview"],"permalink":"/임시/liveview 서버에서 liveview JS 사용하기/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2025.04.04 금 오후 17:44","modifiedAt":"2025.04.08 화 오전 9:46","tags":["liveview"],"permalink":"/임시/liveview 서버에서 liveview JS 사용하기/","dgPassFrontmatter":true}
 ---
 
+
+서버측에서 클라이언트단 이벤트를 호출하여 Liveview.JS를 실행시키기
 
 컴포넌트단
 ```elixir

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"createdAt":"2025.04.03 목 오후 19:04","modifiedAt":"2025.04.03 목 오후 19:13","tags":["ash","liveview","form"],"permalink":"/임시/ash에서 read - update/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2025.04.03 목 오후 19:04","modifiedAt":"2025.04.08 화 오전 9:48","tags":["ash","liveview","form","code_interface"],"permalink":"/임시/ash에서 read - update/","dgPassFrontmatter":true}
 ---
 
 
