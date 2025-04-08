@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"createdAt":"2024.04.01 월 오후 18:10","modifiedAt":"2025.02.10 월 오후 16:28","tags":["elixir","zed","pkgx","erlang","lexical-lsp","next-ls"],"permalink":"/Dev/elixir/elixir install/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2024.04.01 월 오후 18:10","modifiedAt":"2025.04.08 화 오전 10:18","tags":["elixir","zed","pkgx","erlang","lexical-lsp","next-ls"],"permalink":"/Dev/elixir/elixir install/","dgPassFrontmatter":true}
 ---
 
 
@@ -12,7 +12,7 @@
 
 ### 버전 관리 안할꺼면 그냥 brew로 설치
 
-```
+```zsh
 brew install elixir elixir-ls next-ls erlang
 ```
 
@@ -39,7 +39,7 @@ asdf global elixir 1.17.2-otp-27
 ```
 
 .zshrc에 다음 내용 추가
-```
+```zsh
 
 . /opt/homebrew/opt/asdf/libexec/asdf.sh
 export PATH="$PATH:$HOME/.asdf/shims"
@@ -48,7 +48,7 @@ export PATH="$PATH:$HOME/.asdf/shims"
 ---
 
 brew로 asdf 업데이트하고 난 후 아래 command 실행
-```
+```zsh
 
 asdf reshim
 
@@ -102,7 +102,7 @@ eval "$(pkgx integrate)"
 
 프로젝트 내에 pkgx.yml을 작성한다.
 pkgx.yml
-```
+```yml
 dependencies:
   erlang.org@26 elixir-lang.org@1.16
 ```
@@ -118,7 +118,7 @@ pkgx기반으로 에디터가 작동하게 하려면 해당 프로젝트에서 �
 
 +etc
 install.zsh
-```
+```zsh
 #!/bin/zsh
 set +euo pipefail
 
@@ -147,7 +147,7 @@ nextls를 사용하도록 하자
 -> 현재는 제대로 지원함.
 https://github.com/zed-industries/zed/pull/10948
 
-```
+```json
 {
   "languages": {
     "Elixir": {
@@ -161,6 +161,6 @@ https://github.com/zed-industries/zed/pull/10948
 
 ### postgresql install
 
-```
+```zsh
 brew install postgresql@16
 ```
