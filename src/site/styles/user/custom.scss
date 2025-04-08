@@ -63,6 +63,19 @@ body {
     text-shadow: none;
   }
 
+  /* search */
+  #search-results {
+    a.tag {
+      font-size: 0.875rem;
+    }
+    .search-link {
+      font-size: 1.2rem;
+    }
+    .searchresult {
+      font-size: 0.75rem;
+    }
+  }
+
   /* Folders */
   nav.filetree-sidebar {
     font-size: 0.875rem;
