@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.04.10 목 오후 13:29","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.04.10 목 오후 13:32","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
 ---
 
 
 > 2025.2
-제 개인적인 흥미와 더불어 실용적인 개발을 지향하는 성향으로 인해 nix, elixir를 사용한 풀스택 개발자로 전향하고자 하는 강햔 의향이 있습니다.
+제 개인적인 흥미와 더불어 실용적인 개발을 지향하는 성향으로 인해 nix, elixir, typescript를 사용한 풀스택 개발자로 전향하고자 하는 강햔 의향이 있습니다.
 특히 ash framework의 디자인 철학에 깊게 공감하고 있습니다.
 현재 phoenix, ash framework를 학습하고 개인 프로젝트를 진행하고 있으며 해당 업으로는 경력과 조건들을 상당 부분 포기하더라도 가고자 하는 의지가 있으니 관심 있으신 분은 연락 바랍니다.
 
