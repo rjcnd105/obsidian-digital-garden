@@ -25,7 +25,7 @@
 
 **Tech Stack**
 1. typescript, react, css, tailwind, nextjs
-2. html, react-query, [effect community](https://github.com/Effect-TS), [nix](https://nixos.org/)
+2. html, react-query, [effect](https://github.com/Effect-TS), [nix](https://nixos.org/)
 3. d3(visx), prisma, [elixir](https://elixir-lang.org/), [ash](https://ash-hq.org/), [phoenix](https://www.phoenixframework.org/)
 
 **Studying**
