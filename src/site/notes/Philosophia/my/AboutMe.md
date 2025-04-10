@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.04.10 목 오후 13:28","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.04.10 목 오후 13:29","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
 ---
 
 
@@ -25,8 +25,8 @@
 
 **Tech Stack**
 1. typescript, react, css, tailwind, nextjs
-2. html, react-query, [effect community](https://github.com/Effect-TS), [elixir](https://elixir-lang.org/), [nix](https://nixos.org/)
-3. d3(visx), prisma, [phoenix](https://www.phoenixframework.org/), [ash](https://ash-hq.org/)
+2. html, react-query, [effect community](https://github.com/Effect-TS), [nix](https://nixos.org/)
+3. d3(visx), prisma, [elixir](https://elixir-lang.org/), [ash](https://ash-hq.org/), [phoenix](https://www.phoenixframework.org/)
 
 **Studying**
 ash, tanstack start, elixir, phoenix
