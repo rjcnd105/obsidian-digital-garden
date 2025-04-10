@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.04.10 목 오후 13:32","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.04.10 목 오후 18:59","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
 ---
 
 
@@ -10,7 +10,7 @@
 
 **안녕하세요.** 저는 5년 차 프론트엔드 개발자로, 리엑트, 타입스크립트를 주로 사용하며 DDD, [Feature Sliced 패턴](https://feature-sliced.design/) 등에서 얻은 통찰력을 바탕으로 한 효율적인 개발에 대해서 관심이 많습니다.
 
-**제 개발 철학은** 그동안의 경험을 통해 실용주의적 프로그래밍을 지향하며 [Ash Framework의 Resource-oriented, Declarative Design Application Framework](https://hexdocs.pm/ash/design-principles.html)에 깊게 공감합니다.
+**제 개발 철학은** 그동안의 경험을 통해 실용주의적 프로그래밍을 지향하며 [Ash Framework의 Resource-oriented, Declarative Design Application Framework](https://hexdocs.pm/ash/design-principles.html)에 깊게 공감합니다. [^1]
 추상화의 깊이를 최대한 줄이면서 명시적인 Domain knowledge를 설정하여 팀원들 간에 공유하는 것을 중요시합니다.
 그로 인해 상당 부분 암시적 지식을 명시적 지식으로 끌어올리고 다양한 방면으로 투자 비용 대비 높은 업무의 효율성을 가져온다고 생각합니다.
 
@@ -487,3 +487,5 @@ remix 특유의 nested layout을 활용하여 outlet context로 상태를 관리
 **학원**
 패스트 파이브 리엑트 과정 수료(2019)
 그린 컴퓨터 아카데미 프론트엔드 과정 수료(2016)
+
+[^1]: 다만 Resource내에 nested되는 DSL에 대한 것은 좀 아쉽습니다..
