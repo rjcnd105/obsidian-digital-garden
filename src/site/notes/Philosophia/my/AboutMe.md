@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.03.03 월 오후 23:44","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.04.10 목 오후 13:22","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
 ---
 
 
@@ -8,7 +8,11 @@
 특히 ash framework의 디자인 철학에 깊게 공감하고 있습니다.
 현재 phoenix, ash framework를 학습하고 개인 프로젝트를 진행하고 있으며 해당 업으로는 경력과 조건들을 상당 부분 포기하더라도 가고자 하는 의지가 있으니 관심 있으신 분은 연락 바랍니다.
 
-**안녕하세요.** 저는 4년 차 프론트엔드 개발자로, 리엑트, 타입스크립트를 주로 사용하며 DDD, [Hexagonal 아키텍처](https://github.com/Sairyss/domain-driven-hexagon), 그리고 [Feature Sliced 패턴](https://feature-sliced.design/) 등에서 얻은 통찰력을 바탕으로 한 효율적인 개발에 대해서 관심이 많습니다.
+**안녕하세요.** 저는 5년 차 프론트엔드 개발자로, 리엑트, 타입스크립트를 주로 사용하며 DDD, [Hexagonal 아키텍처](https://github.com/Sairyss/domain-driven-hexagon), 그리고 [Feature Sliced 패턴](https://feature-sliced.design/) 등에서 얻은 통찰력을 바탕으로 한 효율적인 개발에 대해서 관심이 많습니다.
+
+**제 개발 철학은** 그동안의 경험을 통해 실용주의적 프로그래밍을 지향하며 [Ash Framework의 Resource-oriented, Declarative Design Application Framework](https://hexdocs.pm/ash/design-principles.html)에 깊게 공감합니다.
+그로 인해 추상화의 깊이를 최대한 줄이면서 명시적인 Domain knowledge를 설정하여 팀원들 간에 공유하는 것을 중요시합니다.
+그로 인해 상당 부분 암시적 지식을 명시적 지식으로 끌어올리고 다양한 방면으로 투자 비용 대비 높은 업무의 효율성을 가져온다고 생각합니다.
 
 **저는 개발자들이 어떻게 하면 성장하면서 효율적으로 일할지**에 대한 방법을 고민하며, 논의하고 실무에 적용하는 것을 좋아합니다. 이전 회사들에서 코드리뷰, KPT, PR, 스터디 발표 등 다양한 문화를 만들고 개선했습니다.
 
@@ -19,12 +23,13 @@
 
 [**🐱깃허브**](https://github.com/rjcnd105)
 
-**Main Tech Stack**
-1. typescript, react, css, remix.run, fp-ts
-2. nextjs, prisma, tailwind, react-query, html, gsap, [effect community](https://github.com/Effect-TS),  d3(visx)
+**Tech Stack**
+1. typescript, react, css, tailwind, nextjs
+2. html, react-query, [effect community](https://github.com/Effect-TS), [elixir](https://elixir-lang.org/), [nix](https://nixos.org/)
+3. d3(visx), prisma, [phoenix](https://www.phoenixframework.org/), [ash](https://ash-hq.org/)
 
 **Studying**
-Category theory, Elixir, Phoenix, Haskell, Rust, effect community
+ash, tanstack start, elixir, phoenix
 
 프론트엔드 개발자 대상으로 온라인&오프라인 합동으로 참여할 수 있는 모각코를 운영 중입니다.
 참여 원하시는 분은 **[프론트 모각코](https://www.notion.so/a731d1477bee460f8b32e69fa04db16c?pvs=21)** ← 확인해주세요 😋
@@ -465,7 +470,7 @@ remix 특유의 nested layout을 활용하여 outlet context로 상태를 관리
 
 **TMI Info**
 
-**age:** 31
+**age:** 32
 **mbti:** INTP-A
 **email:** rjcnd123@gmail.com
 **tel:** 010-5300-3***

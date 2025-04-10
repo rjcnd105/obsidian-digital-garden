@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"dg-home":true,"createdAt":"2024.03.29 금 오전 0:00","modifiedAt":"2025.04.08 화 오전 10:48","permalink":"/Digital Garden Index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"createdAt":"2024.03.29 금 오전 0:00","modifiedAt":"2025.04.10 목 오후 13:23","permalink":"/Digital Garden Index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
+제 소개는 여기서 볼 수 있습니다.
 [[Philosophia/my/AboutMe\|AboutMe]]
 
 ## 최근 업데이트순 (modified date)
 
+- [[Philosophia/my/AboutMe\|AboutMe]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'>#자기소개, #이력서, #react, #typescript, #rust, #haskell, #frontend, #DDD, #featured-slice, #effect, #effect/schema</span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Philosophia/my` | 2025.04.10 PM 1:22 </span>
 - [[Dev/elixir/elixir install\|elixir install]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'>#elixir, #zed, #pkgx, #erlang, #lexical-lsp, #next-ls</span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev/elixir` | 2025.04.08 AM 10:18 </span>
 - [[임시/목표 지향적 사고방식\|목표 지향적 사고방식]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'>#mindset</span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`임시` | 2025.04.08 AM 9:51 </span>
 - [[Dev/web/useage_pattern/css patern\|css patern]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'>#css</span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev/web/useage_pattern` | 2025.04.08 AM 9:48 </span>
@@ -34,7 +36,6 @@
 - [[Study_etc/영양제/Saffran\|Saffran]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'>#nootropic</span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Study_etc/영양제` | 2025.03.06 AM 10:08 </span>
 - [[Philosophia/Contents/지식을 축적하고 창조적인 삶을 살기 (김정운 박사) \|지식을 축적하고 창조적인 삶을 살기 (김정운 박사) ]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'>#창조, #사용가치, #재미, #몰입</span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Philosophia/Contents` | 2025.03.05 PM 3:04 </span>
 - [[pockets\|pockets]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'>#참조, #아티클, #개발</span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`` | 2025.03.03 PM 11:46 </span>
-- [[Philosophia/my/AboutMe\|AboutMe]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'>#자기소개, #이력서, #react, #typescript, #rust, #haskell, #frontend, #DDD, #featured-slice, #effect, #effect/schema</span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Philosophia/my` | 2025.03.03 PM 11:44 </span>
 - [[Dev/elixir/phoenix/Ecto \|Ecto ]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev/elixir/phoenix` | 2025.02.10 PM 4:20 </span>
 - [[Dev/elixir/phoenix/2. Basic\|2. Basic]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev/elixir/phoenix` | 2025.02.09 PM 6:53 </span>
 - [[Dev/shell/shell scripts\|shell scripts]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'>#shell, #bash</span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev/shell` | 2025.01.14 PM 12:41 </span>
@@ -138,7 +139,7 @@
 - [[pockets\|pockets]]<span data-ui='tags' style='font-size:0.6rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'>#참조, #아티클, #개발</span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`` | 2025.03.03 PM 11:46 </span>
 - [[Dev/rust/Rust in Action and The Rust Programming Language\|Rust in Action and The Rust Programming Language]]<span data-ui='tags' style='font-size:0.6rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'>#rust, #book, #study</span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev/rust` | 2024.04.03 PM 6:54 </span>
 - [[Study_etc/Zettelkasten\|Zettelkasten]]<span data-ui='tags' style='font-size:0.6rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Study_etc` | 2024.04.03 PM 6:22 </span>
-- [[Philosophia/my/AboutMe\|AboutMe]]<span data-ui='tags' style='font-size:0.6rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'>#자기소개, #이력서, #react, #typescript, #rust, #haskell, #frontend, #DDD, #featured-slice, #effect, #effect/schema</span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Philosophia/my` | 2025.03.03 PM 11:44 </span>
+- [[Philosophia/my/AboutMe\|AboutMe]]<span data-ui='tags' style='font-size:0.6rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'>#자기소개, #이력서, #react, #typescript, #rust, #haskell, #frontend, #DDD, #featured-slice, #effect, #effect/schema</span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Philosophia/my` | 2025.04.10 PM 1:22 </span>
 - [[Philosophia/Books/reading/프로그래머의 뇌\|프로그래머의 뇌]]<span data-ui='tags' style='font-size:0.6rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'>#책, #개발, #인지</span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Philosophia/Books/reading` | 2024.04.03 PM 6:40 </span>
 
 { .block-language-dataview}
