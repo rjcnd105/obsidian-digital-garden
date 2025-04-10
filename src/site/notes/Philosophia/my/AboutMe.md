@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.04.10 목 오후 18:59","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.04.10 목 오후 19:00","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
 ---
 
 
@@ -487,5 +487,7 @@ remix 특유의 nested layout을 활용하여 outlet context로 상태를 관리
 **학원**
 패스트 파이브 리엑트 과정 수료(2019)
 그린 컴퓨터 아카데미 프론트엔드 과정 수료(2016)
+
+---
 
 [^1]: 다만 Resource내에 nested되는 DSL에 대한 것은 좀 아쉽습니다..
