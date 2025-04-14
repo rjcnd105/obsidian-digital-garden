@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.04.14 월 오후 14:32","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.04.14 월 오후 14:44","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
 ---
 
 
@@ -400,54 +400,6 @@ UX팀의 Scripter 프로젝트에 스크립트 로직, 사용자 인터렉션에
     팀장 역할 담당
 
     Python 웹서버 Framework인 Django 사용, MariaDB Django ORM 연동 후 운영
-
----
-
-## Side Projects
-
-### 덮집회의 (2022. 7 ~)
-
-백, 프론트 개발 모든 분야를 맡아서 했습니다.
-
-도메인 기반으로 폴더 구조를 구성했고 데이터 모델링을 적극적으로 하되 가벼운 프로젝트니 레이어단을 복잡하게 구성하지 않고 API, domain, view단 정도로 구성했습니다.
-
-remix.run을 통한 nested layout을 사용하여 각 페이지간에 공용 데이터를 상위 레이아웃으로 받아와 기존의 nextjs의 페이지처럼 페이지마다 필요한 데이터를 전부 가져올 필요가 없습니다.
-
-그 동안 postcss만으로도 충분하다고 생각했는데, 호기심이 생겨 tailwindcss를 시도했습니다. 생각 외로 좋더라구요.
-
-postgresql을 supabase에 올린 후 prisma를 통해 서버리스 서버단에서 컨트롤했습니다.
-
-tailwind랑 잘 맞는 조합은 radix-ui인 것 같습니다. headless-ui가 기능이 부족해 headless한 ui라이브러리를 찾는 중에 발견했는데 정말 좋았어요.
-
-fp-ts를 통한 함수형, 타입클래스를 적극 활용했습니다.
-
-리펙토링하며 fp-ts가 3버전으로 올라 fp-ts/schema, fp-ts/core를 통해 domain schema 정의를 하였습니다. 사용에 대한 **자세한 내용은 이 글을 봐주세요.**
-
-**구성원:** 디자이너 1, 개발자 1(본인)
-
-**기여:** 개발 전체 100%
-
-**Tech stack**
-[remix(ssr)](https://remix.run/), [immer](https://immerjs.github.io/immer/), [prisma](https://www.prisma.io/), [postgresql](https://www.postgresql.org/), [fp-ts/schema](https://github.com/fp-ts/schema), [fp-ts/core](https://github.com/fp-ts/core), [supabase](https://supabase.com/), [valtio](https://github.com/pmndrs/valtio), [postcss](https://postcss.org/), [tailwindcss](https://tailwindcss.com/), [vercel](https://vercel.com/), [headless-ui](https://headlessui.com/), [radix-ui](https://www.radix-ui.com/)
-
-### Posted (2022. 3 ~)
-
-fp-ts의 TaskEither, TaskOption, IO 등을 활용한 Railway programming 패턴을 활용해 서버사이드에서의 에러처리에 중점을 두었습니다.
-
-비즈니스 로직에도 Monad기반의 functional한 프로그래밍 로직을 주로 사용하였으며, 각각의 큰 개념을 도메인으로 묶었습니다.
-
-remix 특유의 nested layout을 활용하여 outlet context로 상태를 관리했습니다.
-
-데이터 전달은 주로 remix server side의 쿠키 세션 스토리지를 통해 했습니다. (쿠키 세션 스토리지는 클라이언트의 쿠키를 통해 서버에 있는 세션 데이터를 암호화하여 헤더에 httpOnly로 넘겨 서버 - 클라이언트간에 데이터를 유지, 전달하는 방법입니다. )
-
-백엔드 개발자가 회사 업무가 바빠 중단되었습니다….🥲
-
-**구성원:** 디자이너 2, 백엔드 1, 웹 프론트 1(본인), IOS 개발자 1, 안드로이드 개발자 1
-
-**기여:** 웹 100%
-
-**Tech stack**
-[remix(ssr)](https://remix.run/), [fp-ts](https://gcanti.github.io/fp-ts/), [chakra-ui](https://chakra-ui.com/), [emotionjs](https://emotion.sh/docs/introduction), [postcss](https://postcss.org/), [vercel](https://vercel.com/)
 
 ---
 
