@@ -69,8 +69,9 @@ body {
     }
   }
 
-  hr {
+  .markdown-rendered hr {
     border-width: 1.5px;
+    opacity: 0.9;
   }
 
   code[class*="language-"],
