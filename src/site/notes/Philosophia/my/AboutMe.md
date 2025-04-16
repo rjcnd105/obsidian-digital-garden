@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.04.16 수 오전 11:16","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.04.16 수 오전 11:19","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
 ---
 
 
@@ -36,8 +36,6 @@ ash, tanstack start, elixir, phoenix
 ## 경력 사항
 
 경력 사항은 날짜 내림차순으로 작성되었습니다.
-
----
 
 텔레스코프
 
