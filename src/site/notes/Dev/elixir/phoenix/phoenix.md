@@ -4,7 +4,7 @@
 
 
 - [[Dev/elixir/phoenix/1. Setup\|1. Setup]]
-- [[Dev/elixir/phoenix/Ecto \|Ecto ]]
 - [[Dev/elixir/phoenix/2. Basic\|2. Basic]]
+- [[Dev/elixir/phoenix/Ecto \|Ecto ]]
 
 { .block-language-dataview}
