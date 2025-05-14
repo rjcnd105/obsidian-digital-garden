@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.04.16 수 오전 11:25","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.05.14 수 오전 11:41","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
 ---
 
 
@@ -375,6 +375,14 @@ UX팀의 Scripter 프로젝트에 스크립트 로직, 사용자 인터렉션에
     모든 프로젝트는 프로젝트당 스크립터 1인(본인 기여 100%)로 참여했습니다.
 
     그 중 작업량이 많았던 프로젝트들 위주로 포트폴리오에 담았습니다.
+
+---
+
+## Contribute
+
+### [fix: correct json_write_schema call order #325](https://github.com/ash-project/ash_json_api/pull/325)
+
+elixir기반 라이브러리인 ash_json_api의 버그 수정 기여
 
 ---
 
