@@ -39,12 +39,11 @@ ash, tanstack start, elixir, phoenix
 
 ### 텔레스코프
 
-**계약 기간: 2024.5 ~ 2024.11 (6개월)**
+**계약 기간: 2024.5 ~ 2024.11 (계약직 6개월)**
 
 **Teck stack**
 nextjs, tailwind, strapi
 
-하루 4시간 이상 프리랜서로 일했습니다.
 주요 기능인 여행 플랜 관련해서 여행 플랜 작성, 여행 플랜 공유 등의 기능을 만들었습니다.
 
 https://www.tel-co.net/
