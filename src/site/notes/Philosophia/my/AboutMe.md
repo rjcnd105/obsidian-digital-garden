@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema","elixir","ash"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.05.14 수 오후 15:20","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema","elixir","ash"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.05.19 월 오전 9:47","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
 ---
 
 
@@ -53,7 +53,7 @@ https://www.tel-co.net/
 
 ### 리멤버
 
-**기간: 2023.1 ~ 2023.3**
+**기간: 2023.1 ~ 2023.2**
 
 **퇴사 사유**
 
