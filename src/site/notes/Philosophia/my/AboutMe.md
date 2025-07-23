@@ -8,7 +8,7 @@
 특히 ash framework의 디자인 철학에 깊게 공감하고 있습니다.
 현재 phoenix, ash framework를 학습하고 개인 프로젝트를 진행하고 있으며 해당 업으로는 경력과 조건들을 상당 부분 포기하더라도 가고자 하는 의지가 있으니 관심 있으신 분은 (rjcnd123@gmail.com)로 연락 바랍니다.
 
-**안녕하세요.** 저는 5년 차 프론트엔드 개발자로, 리엑트, 타입스크립트를 주로 사용하며 DDD, [Feature Sliced 패턴](https://feature-sliced.github.io/documentation/) 등에서 얻은 통찰력을 바탕으로 한 효율적인 개발에 대해서 관심이 많습니다.
+**안녕하세요.** 저는 6년 차 프론트엔드 개발자로, 리엑트, 타입스크립트를 주로 사용하며 DDD, [Feature Sliced 패턴](https://feature-sliced.github.io/documentation/) 등에서 얻은 통찰력을 바탕으로 한 효율적인 개발에 대해서 관심이 많습니다.
 
 **제 개발 철학은** 그동안의 경험을 통해 실용주의적 프로그래밍을 지향하며 [Ash Framework의 Resource-oriented, Declarative Design Application Framework](https://hexdocs.pm/ash/design-principles.html)에 깊게 공감합니다.
 추상화의 깊이를 최대한 줄이면서 명시적인 Domain knowledge를 설정하여 팀원들 간에 공유하는 것을 중요시합니다.
