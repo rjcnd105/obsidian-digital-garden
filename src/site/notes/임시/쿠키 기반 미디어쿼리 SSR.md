@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"createdAt":"2025.07.23 수 오후 12:58","modifiedAt":"2025.07.24 목 오전 10:01","permalink":"/임시/쿠키 기반 미디어쿼리 SSR/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2025.07.23 수 오후 12:58","modifiedAt":"2025.07.24 목 오전 10:03","permalink":"/임시/쿠키 기반 미디어쿼리 SSR/","dgPassFrontmatter":true}
 ---
 
 
 회사 프로덕트에 적용한 내용
+기존 회사 프로덕트 내에서는 미디어 쿼리 분기로 기능, 컴포넌트, 뷰가 달라지는 것들이 많아서(사실상 적응형 아니냐고..) 아래와 같은 기능을 제안해서 적용시킴. 결과는 꽤 맘에 든다. 전반적으로 속도가 많이 빨라졌다.
 
 아이디어가 갑자기 떠올라서 한번 로컬에서 테스트 해봤는데요~ 제 생각대로 잘 되어서 공유해봅니다~!
 window width size를 nextjs서버 통해 쿠키로 저장해서 sever side에서 값 읽어서 provider통해 해당 size값 hydration시켜서 SSR을 해당 size기준으로 하는 아이디어였어요
@@ -12,7 +13,7 @@ window width size를 nextjs서버 통해 쿠키로 저장해서 sever side에서
 
 1. 초기에 server side에서 사이즈를 알 수 없으니 null -> e.g 초기에는 isMobile ? <Mo> : <PC> 분기로 렌더링시 desktop 기준 SSR이 이뤄짐
     
-2. 클라이언트 사이드에서 useEffect를 통해 미디어 사이즈 분기(e.g const isMobile = useBetterMediaQuery("(max-width: 767px)"))
+ 2. 클라이언트 사이드에서 useEffect를 통해 미디어 사이즈 분기(e.g const isMobile = useBetterMediaQuery("(max-width: 767px)"))
     
 3. 해당 값에 따라 CSR이 다시 이루어짐
 
