@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"createdAt":"2024.05.21 화 오후 15:31","modifiedAt":"2025.04.08 화 오전 9:48","tags":["css"],"permalink":"/Dev/web/useage_pattern/css patern/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2024.05.21 화 오후 15:31","modifiedAt":"2025.07.28 월 오후 14:41","tags":["css"],"permalink":"/Dev/web/useage_pattern/css patern/","dgPassFrontmatter":true}
 ---
 
 
@@ -16,4 +16,16 @@ li > div { grid-template-rows: 1fr; transition: grid-template-rows .3s; }
 
 ```css
 .text {  text-box: cap alphabetic;}
+```
+
+#### 커서가 있는 경우에만 hover 효과 적용
+
+모바일에서 hover effect가 롱프레스-취소시 풀리지 않는 문제를 수정하기 위함.
+
+```css
+	 @media (hover: hover) and (pointer: fine) {
+		&:hover {
+		  background-color: #dfe3e8;
+		}
+	 }
 ```
