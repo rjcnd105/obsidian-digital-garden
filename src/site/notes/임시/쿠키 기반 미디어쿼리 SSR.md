@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"createdAt":"2025.07.23 수 오후 12:58","modifiedAt":"2025.07.24 목 오전 10:03","permalink":"/임시/쿠키 기반 미디어쿼리 SSR/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2025.07.23 수 오후 12:58","modifiedAt":"2025.07.29 화 오전 10:01","permalink":"/임시/쿠키 기반 미디어쿼리 SSR/","dgPassFrontmatter":true}
 ---
 
 
@@ -11,10 +11,8 @@ window width size를 nextjs서버 통해 쿠키로 저장해서 sever side에서
 
 **기존 방식**
 
-1. 초기에 server side에서 사이즈를 알 수 없으니 null -> e.g 초기에는 isMobile ? <Mo> : <PC> 분기로 렌더링시 desktop 기준 SSR이 이뤄짐
-    
- 2. 클라이언트 사이드에서 useEffect를 통해 미디어 사이즈 분기(e.g const isMobile = useBetterMediaQuery("(max-width: 767px)"))
-    
+1. 초기에 server side에서 사이즈를 알 수 없으니 null -> e.g 초기에는 isMobile ? `<Mo>` : `<PC>` 분기로 렌더링시 desktop 기준 SSR이 이뤄짐
+2. 클라이언트 사이드에서 useEffect를 통해 미디어 사이즈 분기(e.g const isMobile = useBetterMediaQuery("(max-width: 767px)"))
 3. 해당 값에 따라 CSR이 다시 이루어짐
 
 **쿠키를 이용한 반응형 SSR 방식**
@@ -44,7 +42,6 @@ window width size를 nextjs서버 통해 쿠키로 저장해서 sever side에서
 </div>
 ```
 
-**기존**
 ![[CleanShot 2025-06-27 at 15.43.28.mp4]]
 
 **적용 후**
