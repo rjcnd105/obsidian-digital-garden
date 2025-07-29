@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"createdAt":"2025.07.23 수 오후 12:58","modifiedAt":"2025.07.29 화 오후 18:27","permalink":"/Dev/web/topic/쿠키 기반 미디어쿼리 SSR/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2025.07.23 수 오후 12:58","modifiedAt":"2025.07.29 화 오후 18:29","permalink":"/Dev/web/topic/쿠키 기반 미디어쿼리 SSR/","dgPassFrontmatter":true}
 ---
 
 
@@ -16,20 +16,16 @@ window width size를 nextjs서버 통해 쿠키로 저장해서 sever side에서
 3. 해당 값에 따라 CSR이 다시 이루어짐
 
 **쿠키를 이용한 반응형 SSR 방식**
-
 - 쿠키 없을 시(null)
-
-1. 초기 접속시(쿠키 없을시) -> 위 기존 방식과 같은 방식으로 렌더링 됨
+	1. 초기 접속시(쿠키 없을시) -> 위 기존 방식과 같은 방식으로 렌더링 됨(쿠키에 width값 set)
 
 - 쿠키 있을 시
-
-1. server side인 root layout에서 provider를 통해 해당 mediaSize cookie값 hydration
+	1. server side인 root layout에서 provider를 통해 해당 mediaSize cookie값 hydration
     
-2. 이 후 media query로 분기되어 렌더링되는 컴포넌트들에 초기 SSR 기준을 해당 쿠키 사이즈 기준으로 잡음
+	2. 이 후 media query로 분기되어 렌더링되는 컴포넌트들에 초기 SSR 기준을 해당 쿠키 사이즈 기준으로 잡음
 
 - 공통
-
-1. 클라이언트 사이드에서 window의 width 값이 기존 쿠키 값과 다르면 server action을 통해 server side통해 쿠키 set을 요청
+	1. 클라이언트 사이드에서 window의 width 값이 기존 쿠키 값과 다르면 server action을 통해 server side통해 쿠키 set을 요청
 
 **동작 영상**
 아래 코드로 테스트시const isMobileSize = useBetterMediaQuery("(max-width: 767px)")
