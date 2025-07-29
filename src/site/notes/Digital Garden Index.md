@@ -8,7 +8,7 @@
 
 ## 최근 업데이트순 (modified date)
 
-- [[임시/쿠키 기반 미디어쿼리 SSR\|쿠키 기반 미디어쿼리 SSR]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`임시` | 2025.07.29 AM 10:01 </span>
+- [[Dev/web/topic/쿠키 기반 미디어쿼리 SSR\|쿠키 기반 미디어쿼리 SSR]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev/web/topic` | 2025.07.29 PM 6:27 </span>
 - [[Dev/web/빡쳤던 노트\|빡쳤던 노트]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev/web` | 2025.07.28 PM 3:36 </span>
 - [[Dev/typescript/Module Augmentation와 Interface Merge를 활용한 bottom - up 식 구현\|Module Augmentation와 Interface Merge를 활용한 bottom - up 식 구현]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev/typescript` | 2025.07.28 PM 3:34 </span>
 - [[Dev/web/useage_pattern/css patern\|css patern]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'>#css</span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev/web/useage_pattern` | 2025.07.28 PM 2:41 </span>
@@ -83,7 +83,7 @@
 ## 최신 생성 글 (created date)
 
 - [[Dev/typescript/Module Augmentation와 Interface Merge를 활용한 bottom - up 식 구현\|Module Augmentation와 Interface Merge를 활용한 bottom - up 식 구현]]<span data-ui='tags' style='font-size:0.6rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev/typescript` | 2025.07.28 PM 3:34 </span>
-- [[임시/쿠키 기반 미디어쿼리 SSR\|쿠키 기반 미디어쿼리 SSR]]<span data-ui='tags' style='font-size:0.6rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`임시` | 2025.07.29 AM 10:01 </span>
+- [[Dev/web/topic/쿠키 기반 미디어쿼리 SSR\|쿠키 기반 미디어쿼리 SSR]]<span data-ui='tags' style='font-size:0.6rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev/web/topic` | 2025.07.29 PM 6:27 </span>
 - [[임시/뇌 관련 흥미로운 글들\|뇌 관련 흥미로운 글들]]<span data-ui='tags' style='font-size:0.6rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`임시` | 2025.07.17 AM 10:20 </span>
 - [[Study_etc/영양제/도파민 관련 보충제 글\|도파민 관련 보충제 글]]<span data-ui='tags' style='font-size:0.6rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Study_etc/영양제` | 2025.07.11 PM 12:23 </span>
 - [[임시/https local mobile test\|https local mobile test]]<span data-ui='tags' style='font-size:0.6rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`임시` | 2025.06.12 PM 6:53 </span>
