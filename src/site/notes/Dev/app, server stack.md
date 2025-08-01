@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"createdAt":"2025.08.01 금 오전 10:20","modifiedAt":"2025.08.01 금 오전 10:50","permalink":"/Dev/app, server stack/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2025.08.01 금 오전 10:20","modifiedAt":"2025.08.01 금 오전 10:51","permalink":"/Dev/app, server stack/","dgPassFrontmatter":true}
 ---
 
 
@@ -8,7 +8,7 @@
 |                   |                          |
 | ----------------- | ------------------------ |
 | nix flake, direnv | local db 실행, env setting |
-| mise              | 개발 툴 종속성 관리              |
+| mise              | server, app 개발 툴 종속성 관리  |
 
 ### server
 
