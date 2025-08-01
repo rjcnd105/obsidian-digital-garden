@@ -26,16 +26,16 @@
 
 ### app
 
-|                 |                        |
-| --------------- | ---------------------- |
-| react-native    | 앱                      |
-| expo            | 앱 framework            |
-| expo-dev-client | expo go 사용 x           |
-| expo router     | 라우팅                    |
-| eas             | expo build helper      |
-| electric        | db 데이터 동기화             |
-| tanstack db     | electric 어뎁터 & 부분 업데이트 |
-| unistyle        | style 라이브러리            |
-| reanimated      | 애니메이션 라이브러리            |
-| mise            | ios, android 종속성 관리    |
-| bunjs           | 모듈 관리, 패키지 관리          |
+|                 |                     |
+| --------------- | ------------------- |
+| react-native    | 앱                   |
+| expo            | 앱 framework         |
+| expo-dev-client | expo go 사용 x        |
+| expo router     | 라우팅                 |
+| eas             | expo build helper   |
+| electric        | db 데이터 동기화          |
+| tanstack db     | electric 어뎁터        |
+| unistyle        | style 라이브러리         |
+| reanimated      | 애니메이션 라이브러리         |
+| mise            | ios, android 종속성 관리 |
+| bunjs           | 모듈 관리, 패키지 관리       |

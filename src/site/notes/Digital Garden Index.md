@@ -8,7 +8,7 @@
 
 ## 최근 업데이트순 (modified date)
 
-- [[Dev/app, server stack\|app, server stack]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev` | 2025.08.01 AM 10:51 </span>
+- [[Dev/app, server stack\|app, server stack]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev` | 2025.08.01 AM 10:52 </span>
 - [[Dev/web/topic/쿠키 기반 미디어쿼리 SSR\|쿠키 기반 미디어쿼리 SSR]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev/web/topic` | 2025.07.29 PM 6:29 </span>
 - [[Dev/web/빡쳤던 노트\|빡쳤던 노트]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev/web` | 2025.07.28 PM 3:36 </span>
 - [[Dev/typescript/Module Augmentation와 Interface Merge를 활용한 bottom - up 식 구현\|Module Augmentation와 Interface Merge를 활용한 bottom - up 식 구현]]<span data-ui='tags' style='font-size:0.65rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev/typescript` | 2025.07.28 PM 3:34 </span>
@@ -83,7 +83,7 @@
 
 ## 최신 생성 글 (created date)
 
-- [[Dev/app, server stack\|app, server stack]]<span data-ui='tags' style='font-size:0.6rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev` | 2025.08.01 AM 10:51 </span>
+- [[Dev/app, server stack\|app, server stack]]<span data-ui='tags' style='font-size:0.6rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev` | 2025.08.01 AM 10:52 </span>
 - [[Dev/typescript/Module Augmentation와 Interface Merge를 활용한 bottom - up 식 구현\|Module Augmentation와 Interface Merge를 활용한 bottom - up 식 구현]]<span data-ui='tags' style='font-size:0.6rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev/typescript` | 2025.07.28 PM 3:34 </span>
 - [[Dev/web/topic/쿠키 기반 미디어쿼리 SSR\|쿠키 기반 미디어쿼리 SSR]]<span data-ui='tags' style='font-size:0.6rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`Dev/web/topic` | 2025.07.29 PM 6:29 </span>
 - [[임시/뇌 관련 흥미로운 글들\|뇌 관련 흥미로운 글들]]<span data-ui='tags' style='font-size:0.6rem; margin-left:0.5rem; color:var(--tag-color); opacity: 0.85;'></span><br/><span style='font-size:0.6rem; margin-left: 0.5rem;opacity:0.8;vertical-align: top;'>`임시` | 2025.07.17 AM 10:20 </span>
