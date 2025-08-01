@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"createdAt":"2025.08.01 금 오전 10:20","modifiedAt":"2025.08.01 금 오전 10:51","permalink":"/Dev/app, server stack/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2025.08.01 금 오전 10:20","modifiedAt":"2025.08.01 금 오전 10:55","permalink":"/Dev/app, server stack/","dgPassFrontmatter":true}
 ---
 
 
@@ -26,16 +26,18 @@
 
 ### app
 
-|                 |                     |
-| --------------- | ------------------- |
-| react-native    | 앱                   |
-| expo            | 앱 framework         |
-| expo-dev-client | expo go 사용 x        |
-| expo router     | 라우팅                 |
-| eas             | expo build helper   |
-| electric        | db 데이터 동기화          |
-| tanstack db     | electric 어뎁터        |
-| unistyle        | style 라이브러리         |
-| reanimated      | 애니메이션 라이브러리         |
-| mise            | ios, android 종속성 관리 |
-| bunjs           | 모듈 관리, 패키지 관리       |
+|                                                    |                     |
+| -------------------------------------------------- | ------------------- |
+| react-native                                       | 앱                   |
+| expo                                               | 앱 framework         |
+| expo-dev-client                                    | expo go 사용 x        |
+| expo router                                        | 라우팅                 |
+| eas                                                | expo build helper   |
+| electric                                           | db 데이터 동기화          |
+| tanstack db                                        | electric 어댑터        |
+| unistyle                                           | style 라이브러리         |
+| reanimated                                         | 애니메이션 라이브러리         |
+| [runner](https://github.com/bluelibs/runner) (POC) | 데이터, 로직 처리          |
+| zod                                                | 스키마                 |
+| mise                                               | ios, android 종속성 관리 |
+| bunjs                                              | 모듈 관리, 패키지 관리       |
