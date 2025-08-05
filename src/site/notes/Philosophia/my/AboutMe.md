@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema","elixir","ash"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.08.05 화 오후 16:11","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["자기소개","이력서","react","typescript","rust","haskell","frontend","DDD","featured-slice","effect","effect/schema","elixir","ash"],"createdAt":"2024.02.04 일 오전 6:41","modifiedAt":"2025.08.05 화 오후 16:12","permalink":"/Philosophia/my/AboutMe/","dgPassFrontmatter":true}
 ---
 
 
@@ -37,11 +37,11 @@ ash, tanstack start, elixir, phoenix`2025.08.05 15:54`
 
 경력 사항은 날짜 내림차순으로 작성되었습니다.
 
-### 아이아이컴바운드
+### 아이아이컴바운드(젠틀몬스터)
 
 **계약기간: 2025.4.28 ~ 2025.5.23(단기) 이후 2025.6.02 ~ 2025.12.31(2025년 계약)**
 
-젠틀몬스터의 모회사인 아이아이컴바운드에서 [젠틀몬스터 사이트](https://www.gentlemonster.com/kr/ko) [포켓 콜렉션 프로모션 제작](https://www.gentlemonster.com/kr/ko/stories/pocket-collection), 운영, 사이트 해외 법인 오픈, 성능 최적화를 했습니다.
+아이아이컴바운드에서 [젠틀몬스터 사이트](https://www.gentlemonster.com/kr/ko) [포켓 콜렉션 프로모션 제작](https://www.gentlemonster.com/kr/ko/stories/pocket-collection), 운영, 사이트 해외 법인 오픈, 성능 최적화를 했습니다.
 
 메인 페이지 CSR 되던 것 전체 SSR로 변경 및 렌더링 최적화, CLS 최적화, 사이트 전반적인 성능 최적화, nextjs 서버 메모리 최적화, 메인, 제품리스트, 헤더 리펙토링을 했습니다.
 
