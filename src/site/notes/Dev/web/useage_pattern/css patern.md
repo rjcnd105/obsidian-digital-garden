@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"createdAt":"2024.05.21 화 오후 15:31","modifiedAt":"2025.07.28 월 오후 14:41","tags":["css"],"permalink":"/Dev/web/useage_pattern/css patern/","dgPassFrontmatter":true}
+{"dg-publish":true,"createdAt":"2024.05.21 화 오후 15:31","modifiedAt":"2025.08.07 목 오전 10:40","tags":["css"],"permalink":"/Dev/web/useage_pattern/css patern/","dgPassFrontmatter":true}
 ---
 
 
@@ -8,6 +8,8 @@
 grid-cols-[repeat(auto-fill,minmax(102px,1fr))]
 
 #### 아코디언
+
+grid를 이용하면 height auto에 해당하는 애니메이션을 쉽게 줄 수 있다.
 
 li > div[inert] { grid-template-rows: 0fr; }
 li > div { grid-template-rows: 1fr; transition: grid-template-rows .3s; }
